@@ -1,0 +1,695 @@
+amount,name,address,csz,number,email,date,invoice_num
+659.99,Amy Blumrosen,5111 Longmont Drive,"Houston, TX 77056",7133743564.0,,2021-09-01 00:00:00,00210901
+197.0,Annette Boatwright,10015 Longmont Drive,"Houston, TX 77042",7132537370.0,,2021-09-08 00:00:00,03210908
+491.0,Angie Collins,26 Shadow Ln,"Houston, TX 77080",(713) 201-8376,,2020-10-20 00:00:00,00201020
+517.0,Angie Collins,10030 Bayou Glen Rd,"Houston, TX , 77042",7132018376,Angiewcollins@comcast.net,2021-10-28 00:00:00,03211028
+725.0,Angie Collins,10834 Alcott,"Houston, TX 77043",7132018376,,2020-11-17 00:00:00,01201117
+551.76,Angie Collins (A),10834 Alcott,"Houston,  TX  77043",7132018376,Angiewcollins@comcast.net,2022-02-01 00:00:00,00220126
+291.0,Angie Collins (A),10834 Alcott,"Houston,  TX  77043",7132018376,Angiewcollins@comcast.net,2022-01-13 00:00:00,03220113
+297.0,Angie Collins (s),26 Shadow Ln,"Houston,  TX  77080",7132018376,Angiewcollins@comcast.net,2022-02-16 00:00:00,00220214
+1018.0,Angie Collins,26 Shadow Ln,"Houston, TX 77042",7132018376,,2021-06-17 00:00:00,03210617
+688.0,Angie Collins,10834 Alcott,"Houston, TX 77042",7132018376,,2021-07-09 00:00:00,02210709
+2775.0,Abel Garcia,4418 Austin St,"Houston, TX 77004",9792155535,,2021-07-08 00:00:00,01210708
+2475.0,Abel Garcia,4418 Austin St,"Houston, TX 77004",9792155535,,2021-07-06 00:00:00,01210708
+294.0,Alicia Lee,10043 Locke Ln,"Houston, TX 77042",7138283798,,2020-08-25 00:00:00,03200825
+1975.0,John Allred,10027 Inwood Dr,"Houston, TX 77042",2813898832,,2020-10-19 00:00:00,02201019
+247.0,John Allred,10027 Inwood Dr,"Houston, TX 77042",2813898832,,2021-06-14 00:00:00,00210614
+197.0,Almeda Park Apartments,10950 Tanner Park Ct,"Houston, TX 77075",7139441131,,2020-09-03 00:00:00,01200903
+750.0,Amy McGuire,6919 Mobud Dr,"Houston,  TX  77074",8324837637,ameliamcguire@sbcglobal.net,2021-12-21 00:00:00,01211221
+444.0,Amy McGuire,6919 Mobud Dr,"Houston,  TX  77074",8324837637,ameliamcguire@sbcglobal.net,2022-02-22 00:00:00,00220222
+697.0,Amy McGuire,6919 Mobud Dr,"Houston, TX 77074",8324837637,,2021-06-08 00:00:00,00210608
+597.0,Amy McGuire,6919 Mobud Dr,"Houston, TX 77074",8324837637,,2021-06-08 00:00:00,00210608
+467.0,Amy McGuire,14333 Still Meadow Dr,"Houston, TX 77079",8324837637,,2021-09-10 00:00:00,01210910
+397.0,Almeda Park Apartments,"10950 Tanner Park Ct, #2301","Houston, TX 77075",(713) 944-1131,almedaparkmgr@hettig-kahn.com,2022-02-16 00:00:00,00220215
+1572.0,Almeda Park Apartments,"10950 Tanner Park Ct, #4703","Houston, TX 77075",(713) 944-1131,almedaparkmgr@hettig-kahn.com,2022-01-26 00:00:00,01220126
+975.0,Marty Applebaum,1364 Sugar Creek Blvd,"Sugar Land, TX 77478",7138588156,,2020-06-23 00:00:00,03200623
+975.0,Marty Applebaum,1364 Sugar Creek Blvd,"Sugar Land, TX 77478",7138588156,,2020-06-23 00:00:00,03200623
+497.0,Almeda Park Apartments,10950 Tanner Park Ct,"Houston, TX 77075",(713) 944-1131,almedaparkapartmentsmgr@hettig-kahn.com,2021-12-29 00:00:00,01211229
+497.0,Almeda Park Apartments,10950 Tanner Park Ct,"Houston, TX 77075",7139441131,,2021-05-06 00:00:00,00210506
+1499.5,Isaac Arnold,3434 Wickersham Lane,"Houston, TX 77027",7132541708,,2020-11-17 00:00:00,00201117
+671.0,Karen Arnold,2715 Kissmet Ln,"Houston, TX 77043",(832) 282-3074,,2021-04-01 00:00:00,01210401
+497.0,Amirex Realty Services,7880 San Felipe St Ste 120,"Houston, TX 77063",(713) 622-2647 (Laurie ext.112),,2021-03-17 00:00:00,01210317
+197.0,Amirex Realty Services,7880 San Felipe St Ste 120,"Houston, TX 77063",(713) 622-2647 (Laurie ext.112),,2021-03-17 00:00:00,00210317
+8025.0,Alan Schultz,8729 Fairbend,"Houston, TX 77055",7137054881,alan.schultz7@gmail.com,2022-01-04 00:00:00,00220103
+1494.0,Ann Snodgrass,427 Thamer Ln,"Houston, TX 77024",7132541075,,2021-09-10 00:00:00,02210910
+197.0,Aimee Verheeck,318 Westminster Drive,"Houston, TX 77024",5049142426,,2021-09-02 00:00:00,01210902
+197.0,Marizel Bautista  ,9523 Clanton St,"Houston, TX  77080",,,2020-08-25 00:00:00,02200825
+1194.0,Marizel Bautista  ,4003 Tilson Ln,"Houston, TX  77080",,,2020-08-25 00:00:00,01200825
+297.0,Brendan Cloney,3603 Pine Ct.,"Missouri City, TX 77459",7082694320,Bcloney146@gmail.com,2021-09-22 00:00:00,00210922
+494.0,Ben Coate,23318 Greenrush Dr,"Katy, TX 77494",8323538205,,2021-06-12 00:00:00,00210612
+3575.0,Maria Bearb,9211 Barrington Circle,"Missouri City, TX 77459",2813006256,,2021-05-20 00:00:00,01210520
+257.5,Kathy Benner,9543 Weatherwood Dr,"Houston, TX 77080",,,2021-03-26 00:00:00,00210326
+254.0,Bob Flavin,6326 Collina Springs Ct,"Houston, TX 77041",,flavinr@aol.com,2021-10-18 00:00:00,03211018
+291.0,Barry Kahn,16811 Hibiscus Ln,"Friendswood, TX , 77546",6197770539,Bkahn@hertig-Kahn.com,2021-10-27 00:00:00,02211027
+197.0,Barry Kahn,9014 Sandringham,"Houston, TX 77024",,,2020-06-23 00:00:00,00200623
+147.0,Barry Kahn,9009 Memorial Dr,"Houston, TX 77024",,,2021-07-30 00:00:00,05210730
+197.0,Bruce Krawiecki,1625 Hollister,"Houston,  TX  77055",7132560311,drbknet@aol.com,2021-01-11 00:00:00,02210111
+186.0,Rob Blain,4436 Coyle St,"Houston, TX 77023",8322651996,,2021-05-21 00:00:00,00210510
+775.0,Barbara Lemley,"12800 Briar Forest, #55","Houston, TX , 77077",8324199064,btableman@swbell.net,2021-09-23 00:00:00,00210923
+467.0,Betty McGinnis,4426 Pease St,"Houston, TX 77023",7133204010,,2021-07-28 00:00:00,01210728
+297.0,Bobby Mulvey,126 Sugarberry,"Houston, TX 77024",7139062131,,2021-08-18 00:00:00,05210818
+647.0,Bobby Mulvey,126 Sugarberry,"Houston, TX , 77024",7139062131,Bmmulvey@aol.com,2021-09-15 00:00:00,03210915
+3475.0,Elaine Bonham,12203 Overcup,"Houston, TX 77024",(713) 303-3123,,2020-09-10 00:00:00,00200910
+297.0,Cecilia Bonilla,1134 Silveridge Rd,"Conroe, TX 77304",,,2020-06-30 00:00:00,01200630
+924.0,Cecilia Bonilla,1134 Silverridge,"Conroe, TX 77304",(832) 741-3475,,2021-06-23 00:00:00,02210623
+451.0,Cecilia Bonilla,1134 Silverridge,"Conroe, TX 77304",(832) 741-3475,,2021-06-23 00:00:00,03210623
+297.0,Cecilia Bonilla,1134 Silverridge,"Conroe, TX 77304",(832) 741-3475,,2021-06-16 00:00:00,01210616
+3475.0,Cecilia Bonilla,28069 Beckendorff Rd,"Katy, TX 77493",(832) 741-3475,,2020-07-17 00:00:00,03200717
+127.0,Bill Powell,5102A Jackson St,"Houston, TX 77004",8322875630,,2021-07-28 00:00:00,03210728
+147.5,Sylvia Bratton,7231 Wind Trail St,"Houston, TX 77040",(713) 494-2750,,2020-06-30 00:00:00,00200630
+147.5,Sylvia Bratton,7231 Wind Trail St,"Houston, TX 77040",(713) 494-2750,,2020-06-30 00:00:00,00200630
+197.0,Mark Broussard,"1025 S Shepherd, #211","Houston, TX 77019",(832) 853-0135,,2020-07-07 00:00:00,05200707
+394.0,Beth Steier,10015 Briar Dr,"Houston,  TX  77042",7138257288,bethsteier@comcast.net,2022-03-07 00:00:00,03220307
+147.0,Barbara Louise Towne,"1616, Fountain View Dr, #205","Houston, TX , 77057",2816868178,btowne@greenwoodking.com,2021-11-09 00:00:00,01211109
+2522.0,Patricia Budinger,3646 Ella Lee Ln,"Houston, TX 77027",7139070309,,2021-04-12 00:00:00,00210412
+684.0,Patricia Budinger,3646 Ella Lee Ln,"Houston, TX 77027",7139070309,,2021-04-08 00:00:00,01210408
+147.0,Suzy Burleson,4527 Devon St,"Houston, TX 77027",7133014110,,2021-04-13 00:00:00,01210413
+451.0,Brooke Wallace,4411 Leeland St,"Houston, TX , 77023",7139062260,Brookeyb9@aol.com,2021-09-30 00:00:00,00210930
+651.5,Bill Yates,10203 Briar Dr,"Houston, TX 77042",8324449152,,2021-06-10 00:00:00,02210610
+297.0,Phil Cannon,"10S Briar Hollow Ln, #41","Houston, TX 77027",,,,
+197.5,Carla Cantrell,6623 Minola,"Houston, TX 77007",2819356502,,2021-06-02 00:00:00,01210602
+200.0,Ed Capo,10411 Londonderry Dr,"Houston, TX 77043",(832) 294-8945,,2021-03-23 00:00:00,05210323
+,Ed Capo,10411 Londonderry Dr,"Houston, TX 77043",8322948945,,2021-04-26 00:00:00,00210426
+297.0,Beth Cassidy,14338 River Forest Drive,"Houston, TX 77079",(713) 231-4168,,2020-08-21 00:00:00,01200821
+497.0,Beth Cassidy,14338 River Forest Drive,"Houston, TX 77079",(713) 231-4168,,2020-09-24 00:00:00,01200924
+254.0,Gina Castellano,1702 Binz Street,"Houston, TX 77004",8322643134,,2021-02-11 00:00:00,00210211
+2475.0,Gina Castellano,1702 Binz St,"Houston, TX 77004",8322643134,,2021-04-13 00:00:00,06210413
+297.0,Cecilia Bonilla,9810 Charlbrook Dr,"Sugar Land, TX 77498",,,2021-07-27 00:00:00,00210727
+878.0,Cecilia Bonilla,9810 Charlbrook Dr,"Sugar Land, TX 77498",,,2021-07-07 00:00:00,03210707
+147.0,Conner Collins,1225 Nelson Falls ln,"Houston, TX , 77008",7132030353,connerc9@comcast.net,2021-10-28 00:00:00,02211028
+,Alejandra Cevallos,10218 Inwood Dr.,"Houston, TX 77042",7139841652,,2020-08-13 00:00:00,02200813
+3875.0,Chris Garza,2350 Bering Dr,"Houston, TX 77057",8326420890,,2020-08-05 00:00:00,02200805
+497.0,Chris Champion,3715 Sunset Blvd,"Houston, TX 77005",(713) 628-1912,,2020-07-29 00:00:00,00200729
+2950.0,Maureen Chaouch,6261 Terwilliger Way,"Houston, TX 77057",8326549942,,2021-04-06 00:00:00,00210406
+,Blake Chase,13931 Britoak lane,"Houston, TX 77079",8326552469,,2020-11-03 00:00:00,00201105
+197.0,Terri Chase,7953 Turquoise,"Houston, TX 77055",7133925001,,2021-04-15 00:00:00,01210415
+1983.0,Charlotte Hickey,6050 Crab Orchard Rd,"Houston, TX , 77057",7132912889,charlottehickey@comcast.net,2021-09-23 00:00:00,00210923
+3400.0,Casa Juan Diego,4818 Rose St,"Houston, TX 77007",7132272253,,2021-06-15 00:00:00,01210615
+8047.85,Casa Juan Diego,4818 Rose St,"Houston, TX 77007",7132272253,,2021-06-11 00:00:00,01210611
+1972.0,Linda Clary,"1914 Augusta, #1","Houston, TX 77057",2817328678,,2021-02-19 00:00:00,01210219
+147.0,Chris Longoria,18202 Sweet Juniper Ln,"Katy, TX 77449",,,2021-03-25 00:00:00,02210325
+297.0,Conor McEvily,"1737 Albans Road, Unit 2","Houston, TX 77005",2815133582,,2021-09-08 00:00:00,02210908
+4875.0,Dallas Coate,1006 Mahogany Dr,"Katy, TX 77494",(832)437-4282,,6/2232020,00200623
+3275.0,Rob Collier,824 Heights Blvd,"Houston, TX 77007",7138220393,,2021-05-04 00:00:00,04210504
+2875.0,Robert Collier,824 Heights Blvd,"Houston, TX 77007",(713) 822-0393,,2020-06-18 00:00:00,00200618
+297.0,Robert Collier,824 Heights Blvd,"Houston, TX 77007",7138220393,,2020-08-06 00:00:00,00200806
+3275.0,Connor Collins,20510 Timber Ridge Dr,"Magnolia, TX 77355",(832) 797-5344,,2020-07-03 00:00:00,
+254.0,Carlos Pineda,"1025 S. Shepherd, Unit 203","Houston, TX 77019",9132071764,,2021-06-18 00:00:00,01210618
+4100.0,Chrissy Schneider,7624 Brykerwoods Dr,"Houston, TX 77055",(281) 989-0198,,2020-07-03 00:00:00,00200709
+147.0,Chrissy Schneider,7624 Brykerwoods Dr,"Houston, TX 77055",2819890198,,2021-07-28 00:00:00,02210728
+5973.0,Connie Seegmiller ,5715 Tangle Circle Ln," Houston, TX 77057",,,2021-09-03 00:00:00,00210903
+1209.0,Cypresswood Estates,"15331 Kuykendahl Rd, #2102","Houston,  TX  77090",2815805333,cypresswoodestates@hettig-kahn.com,2022-01-20 00:00:00,00220120
+537.0,Cypresswood Estates,"15331 Kuykendahl Rd, #3102","Houston, TX 77090",2815805333,,2021-09-08 00:00:00,04210908
+277.5,Cypresswood Estates,15331 Kuykendahl Rd #2301,"Houston, TX 77090",,,2020-07-07 00:00:00,02200707
+1215.0,Cypresswood Estates,15331 Kuykendahl Rd #801,"Houston, TX 77090",,,2020-07-08 00:00:00,02200708
+337.5,Cypresswood Estates,15331 Kuykendahl Rd #1002,"Houston, TX 77090",,,2020-07-08 00:00:00,02200708
+975.0,Cypresswood Estates,15331 Kuykendahl Rd #604,"Houston, TX 77090",,,2020-07-08 00:00:00,01200708
+397.0,Cypresswood Estates,15331 Kuykendahl Rd #804,"Houston, TX 77090",,,2020-07-08 00:00:00,06200708
+,Cypresswood Estates,15331 Kuykendahl Rd #2302,"Houston, TX 77090",(713) 501-1656,,2020-07-13 00:00:00,00200713
+897.0,,Cypresswood Estates,"15331 Kuykendahl Rd #903, #2204, #2210","Houston, TX 77090",,2020-07-02 00:00:00,02200702
+0.0,Cypresswood Estates,15331 Kuykendahl Rd,,,,,
+0.0,,,,,,,
+6000.0,John Darcy,20510 Timber Ridge Dr,"Magnolia, TX 77355",(832) 797-5344,,2020-07-09 00:00:00,00200709
+197.5,Dale Cheesman,1204 Nantucket,"Houston,  TX  77057",7138991049,Dcheese3@yahoo.com,2022-01-04 00:00:00,01220103
+3475.0,Dallas Coate,1006 Mahogany Run Drive,"Katy, TX 77494",8324374282,,2021-06-17 00:00:00,03210617
+794.0,Dallas Coate,1006 Mahogany Run Drive,"Katy, TX 77494",8324374282,,2021-08-04 00:00:00,00210804
+697.0,Paul De Ayala,909 Rutland,"Houston, TX 77008",7138265686,,2021-05-07 00:00:00,02210507
+,Joanie De Ayala,1114 Loeser Dr,"Houston, TX 77055",7138269357,,2020-08-18 00:00:00,00200818
+1471.5,Darlene Guidry,9314 Sinfonia Dr,"houston, TX , 77040",7135948931,dguidry@hettig-kahn.com,2021-09-16 00:00:00,00210916
+197.0,Darlene Guidry,9314 Sinfonia Dr,"houston, TX , 77040",7135948931,dguidry@hettig-kahn.com,2021-10-08 00:00:00,03211008
+988.5,John Dickerson,635 W Forest Dr,"Houston, TX 77079",(713) 822-0520,,2021-01-11 00:00:00,00210111
+244.5,Sarah Dillingham,12910 Hermitage Ln,"Houston, TX 77079",,,2021-04-21 00:00:00,00210421
+676.0,Paula Djabbarah,2807 - D Mid Lane,"Houston, TX 77027",7136211585,,2021-06-16 00:00:00,00210616
+347.0,Dan Kaspar,9615 Val verde,"Houston, TX 77063",2818303779,,2021-09-01 00:00:00,02210901
+197.0,Dema Kostova,5723 Clayridge Dr,"Houston, TX 77096",,,2021-07-28 00:00:00,00210728
+127.0,David Lam,5714 Basswood Dale Dr,"Houston, TX 77084",7135944941,delamhtex@sbcglobal.net,2022-03-02 00:00:00,01210302
+3275.0,David Lam,21710 N Tangle Creek Ln,"Spring, TX 77388",7135944941,delamhtex@sbcglobal.net,2021-10-18 00:00:00,01211018
+147.0,David Lam,21710 N Tangle Creek Ln.,"Spring, TX 77388",,,2021-08-03 00:00:00,02210803
+1475.0,David Lopez,6626 Radley Dr,"Spring, TX 77379",8329048200,,2021-08-24 00:00:00,00210824
+782.0,Debe Madden,11822 Castle Ridge Dr,"Houston, TX , 77077",7138243891,debem@ix.netcom.com,2021-11-04 00:00:00,01211104
+381.0,Debe Madden,11822 Castle Ridge Dr,"Houston,  TX  77077",7138243891,debem@ix.netcom.com,2022-02-09 00:00:00,02220209
+97.5,Debe Madden,11822 Castle Ridge Dr,"Houston, TX , 77077",7138243891,debem@ix.netcom.com,2021-09-29 00:00:00,00210928
+775.0,Debe Madden,11822 Castle Ridge Dr,"Houston, TX 77077",7138243891,,2021-07-12 00:00:00,03210712
+1275.0,Sharon Donovan,1227 Ripple Creek Dr,"Houston, TX 77057",(713) 816-7311,,2020-07-17 00:00:00,03200720
+5072.0,John Dorsch,8928 Spring Branch Drive A-3,"Houston, TX 77080",3462251378,,2021-05-28 00:00:00,00210528
+677.0,Debbie Ritter,40 Windsor Pl,"Houston, TX 77055",7138225160,,2021-07-22 00:00:00,04210722
+1571.5,Doreen Skipton,1616 Fountainview Dr #512,"Houston, TX 77057",7139754736,,2021-06-03 00:00:00,01210603
+1331.5,Doreen Skipton,1616 Fountainview Dr #512,"Houston, TX 77057",7139754736,,2021-06-03 00:00:00,01210603
+479.0,Jamie Duffner,10123 Briar Drive,"Houston, TX 77042",7132138814,,2021-03-25 00:00:00,00210325
+727.0,Helen Duskin,14822 La Quinta Ln,"Houston, TX 77079",7139276668,,2020-08-10 00:00:00,02200810
+1478.0,Don Earthman,11302 Holidan Way,"Houston, TX 77024",8322657700,,2021-04-08 00:00:00,02210408
+297.0,Eric Cannon,9014 Bace Dr,"Houston, TX , 77055",2816155400,me_cannon@yahoo.com,2021-10-27 00:00:00,01211027
+697.0,Eric Cannon,9014 Bace Dr,"Houston, TX 77055",,,2021-05-07 00:00:00,01210507
+975.0,Eric Cannon,9014 Bace Dr,"Houston, TX 77055",,,2021-06-18 00:00:00,03210618
+2875.0,Emily Conine,1447A Springrock Ln,"Houston,  TX  77055",8324987376,emily.conine@sbcglobal.net,2022-03-15 00:00:00,00220315
+444.0,Dan Egger,824 Heights Blvd,"Houston, TX 77007",7132408169,,2021-05-03 00:00:00,02210503
+834.5,Dan Egger,12211 Pebblebrook Dr,"Houston, TX 77024",7132408169,,2029-09-24 00:00:00,02200924
+0.0,Ann Snodgrass,427 Thamer Ln,"Houston, TX , 77024",7132541075,Annsnodgrass@att.net,2021-10-08 00:00:00,
+297.0,Eric Harrison,"11201 Lynbrook Dr, #3809","Houston, TX , 77042",5124232513,harrisonehb@aol.com,2021-10-07 00:00:00,01211007
+3475.0,Eric Jackson,5630 Ivory Mist Ln,"Houston, TX , 77041",7138056688,eljack24@icloud.com,2021-11-09 00:00:00,00211109
+254.0,Eric Jackson,5360 Ivory Mist Ln,"Houston,  TX  77041",7138056688,eljack24@icloud.com,2022-03-07 00:00:00,00220307
+,Eric Jackson,5630 Ivory Mist Ln,"Houston, TX 77041",7138056688,,2020-08-10 00:00:00,01200810
+582.0,Elizabeth Murski,5640 Briar Drive,"Houston, TX 77056",7135010332,,2021-06-17 00:00:00,00210617
+244.5,Elizabeth Parsley,913 W 15th 1/2 St,"Houston, TX 77008",3617288946,,2021-06-10 00:00:00,00210610
+0.0,Josleen,,,,,2021-10-08 00:00:00,
+440.0,Ershel Clarence Redd,10202 Green Tree Rd,"Houston, TX , 77042",7137800728,ershel1966@gmail.com,2021-10-12 00:00:00,00211012
+147.0,Elaine Robinson,13310 Havershire Ln,"Houston, TX 77079",7133011879,elainetrobinson301@yahoo.com,2021-11-08 00:00:00,00211108
+197.0,Lolly Erwin,"1217 Nantucket Drive, Unit B","Houston, TX 77057",8328167322,,2020-08-10 00:00:00,00200810
+1523.0,Lolly Erwin,1217 B Nantucket Dr,"Houston, TX 77057",8328167322,,2021-05-04 00:00:00,02210504
+297.0,Esteban Sagel,101 Pamellia Drive,"Bellaire, TX 77401",8322843723,,2021-07-02 00:00:00,01210702
+197.0,Esteban Sagel,101 Pamellia Drive,"Bellaire, TX 77401",8322843723,,2020-08-21 00:00:00,02200821
+697.0,Fallbrook Ranch Ltd,"411 West Rd, Apt 804","Houston, TX 77038",2812608944,,2021-03-23 00:00:00,00210323
+10675.0,Katie Fields,13510 Indian Creek Rd,"Houston,  TX  77079",7138181579,fields.kt@gmail.com,2022-01-19 00:00:00,00220119
+254.0,Bob Flavin,6326 Collina Springs Ct,"Houston, TX  77041",,,2021-03-25 00:00:00,01210325
+2372.0,Family Place,7625 Hammerly Blvd,"Houston, TX 77055",,,2021-02-02 00:00:00,00210202
+5870.0,Family Place,7625 Hammerly Blvd,"Houston, TX 77055",,,2021-04-27 00:00:00,01210426
+1875.0,Family Place,7625 Hammerly Blvd,"Houston, TX 77055",,,2021-04-13 00:00:00,03210413
+4875.0,Glenn Frank,1027 Memorial Village Dr,"Houston, TX 77024",7132042135,,2021-03-29 00:00:00,01210329
+291.0,George Alcorn,3666 Ella Lee Ln,"Houston, TX , 77027",7136143725,georgealcornjr@gmail.com,2021-10-28 00:00:00,03211027
+297.0,George Alcorn,3666 Ella Lee Lane,"Houston, TX 77027",7136143725,,2021-07-09 00:00:00,04210709
+2850.0,George Carmichael,5124 Tangle Ln,"Houston, TX 77056",7132062169,gcarmichael@carmichaelcos.com,2021-10-22 00:00:00,03211022
+297.0,George Carmichael,5124 Tangle Ln,"Houston,  TX 77056 ",7132062169,gcarmichael@carmichaelcos.com,2021-12-10 00:00:00,00211210
+197.0,Gina Castellano,1701 Binz Street,"Houston,  TX  77004",8322643134,Gina@ginacastellano.com,2022-02-01 00:00:00,00220201
+294.0,Ginger Fabian,4413 Clay St,"Houston, TX , 77023",7139264029,gingerfabian@yahoo.com,2021-10-22 00:00:00,00211022
+6475.0,Gonzalez Family Medicine,11040 East Freeway,"Houston, TX 77029",7134538328,,2021-03-16 00:00:00,01210316
+454.0,Gonzalez Family Medicine,11040 East Freeway,"Houston, TX 77029",7134538328,,2021-05-10 00:00:00,02210510
+3350.0,Gonzalez Family Medicine,11040 East Freeway,"Houston, TX 77029",7134538328,,2021-06-24 00:00:00,03210624
+297.0,Glenn G Frank,1027 Memorial Village Drive,"Houston, TX 77024",7132042135,,2021-07-21 00:00:00,00210721
+197.0,George Garza,607 Ramblewood Rd,"Houston, TX 77079",(281) 782-2487,,2020-07-07 00:00:00,00200707
+147.0,George Garza,607 Ramblewood Rd,"Houston, TX 77079",(281) 782-2487,,2020-08-19 00:00:00,04200819
+414.0,Gigi Hancock,2313 Huldy St,"Houston,  TX  77019",7134176285,Ghancock@dg-studios.com,2022-01-18 00:00:00,00220118
+0.0,Bill Glick,4401 Camellia Lane,"Houston, TX 77401",7138295928,,2020-12-01 00:00:00,01201201
+388.0,Bill Glick,4401 Camellia Lane,"Houston, TX 77401",7138295928,,2020-12-01 00:00:00,01201201
+588.0,Bill Glick,4401 Camelia Ln,"Bellaire, TX 77401",7138295928,,2021-04-19 00:00:00,3338
+197.0,Bill Glick,4401 Camellia Ln,"Bellaire, TX 77401",7138295928,,2021-05-14 00:00:00,00210514
+147.0,Gina McEvily,5433 Fieldwood Dr,"Houston, TX 77056",7134109887,Kgmcevily@aol.com,2021-10-18 00:00:00,04211018
+147.0,Gina McEvily,5433 Fieldwood Dr,"Houston, TX 77056",7135537869,,2021-05-03 00:00:00,04210503
+291.0,Julian Gonzalez,9010 Kenilworth St,"Houston, TX 77024",7134787521,,2020-12-28 00:00:00,00201228
+497.0,The Gotham Lofts,"1025 S Shepherd, #101, #201, & #301","Houston, TX 77019",,,2021-07-12 00:00:00,01210712
+197.0,The Gotham Lofts,1025 S. Shepherd Dr #301,"Houston, TX 77019",,,2021-05-19 00:00:00,01210519
+254.0,The Gotham Lofts,1025 S. Shepherd Dr #301,"Houston, TX 77019",,,2021-05-19 00:00:00,00210519
+254.0,The Gotham Lofts,1025 S. Shepherd Dr #301,"Houston, TX 77019",,,2020-08-19 00:00:00,02200820
+297.0,The Gotham Lofts,"1025 S. Shepherd, 4th Floor Hallway","Houston, TX 77019",,,2021-08-04 00:00:00,01210804
+2223.0,The Gotham Lofts,1025 S Shepherd Dr,"Houston, TX 77019",7135397978,,2021-05-14 00:00:00,01210514
+5673.0,The Gotham Lofts,"1025 S Shephard, #109, #209, #309, #409","Houston, Texas 77019",,,2021-01-27 00:00:00,01210127
+197.0,The Gotham Lofts,1025 S. Shepherd Dr #301,"Houston, TX 77019",,,2021-03-23 00:00:00,02210323
+3019.97,"1839 Jacqueline Dr, #104","Houston, TX 77055",,,,2021-08-04 00:00:00,04210804
+1475.0,Jane Cizik Garden Place,"1839 Jacqueline Dr, #106","Houston, TX 77055",,,2021-04-13 00:00:00,05210413
+1275.0,Jane Cizik Garden Place,1839 Jacquelyn Dr,"Houston, TX 77055",,,2020-11-10 00:00:00,00201110
+1164.0,"1839 Jacqueline Dr, #302","Houston, TX 77055",,,,2021-09-02 00:00:00,00210902
+1275.0,Garden Place,1839 Jacquelyn,"Houston, TX 77055",7135690965,,2021-06-15 00:00:00,02210615
+3875.0,Gloria Ragan,6607 Kelvin Dr,"Houston, TX 77030",3614428828,gmr58@aol.com,2021-12-30 00:00:00,00211230
+197.0,Gloria Ragan,6607 Kelvin Dr,"Houston, TX 77030",3614428828,gmr58@aol.com,2021-12-23 00:00:00,02211223
+594.0,Gloria Ragan,6607 Kelvin Dr,"Houston, TX 77030",(361) 442-8828,gmr58@aol.com,2022-03-09 00:00:00,00220309
+,Daniel Grant,10043 Briar Rose Dr.,"Houston, TX 77042",(713) 907-0414,,2020-10-19 00:00:00,01201019
+297.5,Daniel Grant,10043 Briar Rose Dr.,"Houston, TX 77042",(713) 907-0414,,2020-08-05 00:00:00,01200805
+197.5,Charles Griffin,6628 Meadowlawn St,"Houston, TX 77023",2145145422,,2020-09-16 00:00:00,01200916
+254.0,Darlene Guidry,9314 Sinfonia Dr,"Houston, TX 77040",7135948931,,2021-03-12 00:00:00,03210312
+434.0,Darlene Guidry,9314 Sinfonia Dr,"Houston, TX 77040",(713) 594-8931,,2020-08-25 00:00:00,08200825
+551.0,Gary Walker,10019 Briar Dr,"Houston,  TX  77042",7139075191,walkergm@earthlink.net,2021-12-21 00:00:00,00211221
+697.0,Gary Walker,10019 Briar Dr,"Houston, TX , 77042",7139075191,walkergm@earthlink.net,2021-09-23 00:00:00,03210923
+994.0,Gary Walker,1616 Fountain View Dr,"Houston, TX 77057",7139075191,,2021-09-09 00:00:00,01210909
+3475.0,Gregory Zaybak,"10950 Cypress Creek Pkwy, Ste E","Houston, TX 77070",2815206222,,2021-07-16 00:00:00,02210716
+1048.0,Jim Hammelman,1315 Westview Garden Court,"Houston, TX 77055",7135029101,,2021-04-21 00:00:00,01210421
+1248.0,Jim Hammelman,1315 Westview Garden Court,"Houston, TX 77055",7135029101,,2021-04-21 00:00:00,01210421
+2525.0,Gigi Hancock,2313 Huldy St,"Houston, TX 77019",7134176285,,2020-10-23 00:00:00,00201023
+344.5,Eric Harrison (11201 Lynbrook Dr. #3809),4103 Edgemont Dr,"Austin, TX 78731",5124232513,,2021-03-08 00:00:00,00210308
+225.0,Anne Harvey,2831 Quenby Ave,"Houston, TX 77005",7133850393,,2020-11-25 00:00:00,00201125
+6675.0,Anne Harvey,2831 Quenby Ave,"Houston, TX 77005",7133850393,,2021-03-12 00:00:00,00210312
+434.0,Sabra Harvey,5531 Cobble Ln,"Spring, TX 77379",(281) 732-0402,,2020-07-15 00:00:00,00200715
+697.0,Diana Henderson,7922 Braes Meadow Dr,"Houston, TX 77071",(832) 526-9741,,2020-07-23 00:00:00,00200723
+874.0,Vann Hibberts,379 Connaught Way,"Houston, TX 77015",8328929255,,2021-05-21 00:00:00,01210510
+501.5,Charlotte Hickey,6050 Crab Orchard Rd,"Houston, TX 77057",(713) 291-2889,,2020-07-17 00:00:00,04200720
+975.0,Charlotte Hickey,6050 Crab Orchard Rd.,"Houston, TX 77057",7132912889,,2020-09-14 00:00:00,02200914
+617.0,Charlotte Hickey,6050 Crab Orchard Rd.,"Houston, TX 77057",7132912889,,2020-09-10 00:00:00,01200910
+2758.0,Hettig Managment,5325 Katy Freeway,"Houston, TX 77007",(713) 805-3340,,2020-10-06 00:00:00,01201006
+1394.0,Hettig Management,5325 Katy Fwy #1 & #2,"Houston, TX 77007",,,2020-07-23 00:00:00,03200723
+975.0,Hettig Management,5325 Katy Fwy #2,"Houston, TX 77007",,,2020-08-19 00:00:00,05200819
+197.0,Hettig-Kahn Office,5325 Katy Freeway,"Houston, TX , 77007",7138053340,ngaisbacher@hettig-kahn.com,2021-11-04 00:00:00,02211104
+975.0,Hettig-Kahn Office,"5325 Katy Freeway, Suite 1","Houston, TX , 77007",7138053340,ngaisbacher@hettig-kahn.com,2021-11-02 00:00:00,02211102
+1379.0,Hettig-Kahn Office,"5325 Katy Freeway, Suite 1","Houston, TX , 77007",7138053340,ngaisbacher@hettig-kahn.com,2021-11-02 00:00:00,00211102
+1379.0,Hettig-Kahn Office,"5325 Katy Freeway, Suite 2","Houston, TX , 77007",7138053340,ngaisbacher@hettig-kahn.com,2021-11-02 00:00:00,01211102
+10207.05,Hettig-Kahn Office,5325 Katy Freeway,"Houston,  TX  77007",7138053340,ngaisbacher@hettig-kahn.com,2022-03-04 00:00:00,00220204
+297.5,Hettig Management,"5325 Katy Freeway, Suite 1","Houston,TX 77007",,,2021-07-12 00:00:00,00210712
+824.0,"Hettig Management, Suite 1",5325 Katy Freeway,"Houston, TX 77007",,,2021-08-31 00:00:00,03210831
+3208.0,Hettig Management,5325 Katy Freeway,"Houston, TX 77007",7138053340,,2021-04-22 00:00:00,00210422
+975.0,Hettig-Kahn Office,"5325 Katy Freeway, Suite 1","Houston, TX , 77007",7138053340,ngaisbacher@hettig-kahn.com,2021-09-28 00:00:00,02210928
+378.0,Laura Holland,34 S. Cheska Lane,"Houston, TX 77024",7133067510,,2020-09-14 00:00:00,03200914
+0.0,Holy Rosary Vietnamese Dominican Sisters,1602 Adams St,"Missouri City,  TX  77489",2814039300,quynhvan@yahoo.com,2022-02-03 00:00:00,02220203
+,Holy Rosary Convent,4610 LOCUST ST,"Bellaire, TX 77401",8323738093,,2020-09-09 00:00:00,00200909
+0.0,Our Lady-Rosary Vietnamese,1602 Adams St,"Missouri City, TX 77489",2814039300,,2020-09-04 00:00:00,03200904
+697.0,Bobby Huffman,10403 Lynbrook Hollow St,"Houston, TX 77042",(832) 350-6801,,2020-06-23 00:00:00,01200623
+297.0,Lori Huffman,10403 Lynbrook Hollow St,"Houston, TX 77042",(832) 350-6801,,2020-07-30 00:00:00,00200730
+197.0,Ilana Walder-Biesanz,2615 Commonwealth St,"Houston, TX 77006",4085985522,,2021-08-06 00:00:00,02210806
+322.0,Ingrid Gonzalez,4527 Ivanhoe,"Houston, TX , 77027",7134804455,grid686@aol.com,2021-10-07 00:00:00,03211007
+0.0,Ingrid Gonzalez Wood,4527 Ivanhoe,"Houston, TX 77027",7134804455,,,
+497.0,Ingrid Gonzalez,4527 Ivanhoe,"Houston, TX , 77027",7134804455,grid686@aol.com,2021-09-10 00:00:00,04210910
+97.5,Ilshat,5103 Locust St,"Bellaire, TX 77401",2816279631,,2021-05-04 00:00:00,00210504
+938.0,Ingrid Gonzalez Wood,4527 Ivanhoe,"Houston, TX 77027",7134804455,,2021-08-06 00:00:00,00210806
+1602.0,Ingrid Gonzalez Wood,4527 Ivanhoe,"Houston, TX 77027",7134804455,,2021-08-03 00:00:00,03210803
+297.5,Robert Jackson,3911 Palace Springs,"Sugarland, TX 77479",7138299805,,2020-09-04 00:00:00,02200904
+885.0,Robert Jackson,5032 Tangle ln,"Houston, TX 77056",(713) 829-9805,,2021-04-13 00:00:00,02210413
+,Edolia James,13710 Broken Bridge Dr,"Houston, TX 77085",7134124368,,2021-04-28 00:00:00,00210428
+147.0,Edolia James,13710 Broken Bridge Drive,"Houston, TX 77085",7134124368,,2020-07-23 00:00:00,01200723
+147.0,Jennifer Beck,522 Ashford Forest Dr,"Houston, TX 77079",7133030876,,2021-07-09 00:00:00,00210709
+1363.0,Jeff Collins,2 White Pillars Ln,"Houston, TX 77024",,,2021-04-19 00:00:00,00210419
+297.0,Jeff Collins,3 White Pillars Ln,"Houston, TX 77024",(713) 205-6532,,2021-09-28 00:00:00,01210927
+400.0,Jeff Collins,3 White Pillars Ln,"Houston, TX 77024",(713) 205-6532,,2021-09-28 00:00:00,00210928
+3875.0,Jeff Collins,3 White Pillars Ln,"Houston, TX 77024",7132056532,,2021-09-15 00:00:00,00210915
+888.5,John Dickerson,635 W Forest Dr,"Houston, TX 77079",7138220520,,2021-06-30 00:00:00,01210630
+3475.0,John Dickerson,635 W Forest Dr,"Houston, TX 77079",7138220520,,2021-08-06 00:00:00,01210806
+197.0,Josleen Elsay,9402 Meadowcroft Dr,"Houston, TX , 77063",8322838555,joslingeorge@hotmail.com,2021-10-08 00:00:00,04211008
+3875.0,Julian Gonzalez,9010 Kenilworth St,"Houston,  TX  77024",7134787521,julian@gonzalezmd.com,2022-02-09 00:00:00,00220209
+297.5,John Goss,13511 St Marys Ln,"Houston, TX , 77079",7138189398,john-goss@hotmail.com,2021-09-17 00:00:00,00210917
+97.5,John Charles Goss,13511 Saint Marys Ln,"Houston, TX 77079",7138189398,,2021-07-22 00:00:00,03210722
+297.0,John Griffin,1802 Cherryhurst St,"Houston, TX 77006",,,2021-08-18 00:00:00,05210818
+441.5,John Griffin,1802 Cherryhurst St,"Houston, TX 77006",8324722236,,2021-07-28 00:00:00,04210728
+5738.0,John Hettig,16 Sovereign Circle,"Richmond, TX 77469",2813448311,,2021-03-16 00:00:00,00210316
+551.0,Jonathan Lack,"1025 S Shepherd Dr, #409","Houston,  TX  77019",7135397978,jlack@roiventures.com,2022-02-09 00:00:00,01220209
+197.0,Jay Lavender,4202 Fox Meadow,"Pasadena, TX 77504",7135452674,,2021-07-21 00:00:00,03210721
+197.5,John Ledford,1524 Cunningham Parc Lane,"Houston, TX 77055",7132915910,,2021-09-29 00:00:00,01210929
+254.0,John Morris,201 E. 27th St.,"Houston, TX 77008",7136285373,,2021-07-08 00:00:00,00210708
+254.0,John Morris,201 E 27th St,"Houston, TX 77008",(713) 628-5373,,2021-07-28 00:00:00,02210728
+147.0,Janette Nunn,409 Fargo St,"Houston, TX , 77006",2487559126,janettenunn@yahoo.com,2021-10-08 00:00:00,00211008
+1375.0,Joe,7138985472,,,,2020-10-29 00:00:00,
+475.0,Joe,7138985472,,,,2021-03-10 00:00:00,
+576.0,Joe Ozment,12927 Hansel Ln,"Houston, TX 77024",,,2021-08-31 00:00:00,01210831
+775.0,Jill Parlsey,10027 Briar Dr,"Houston, TX 77042",7132563954,,2021-08-03 00:00:00,00210803
+4875.0,Jennifer Randle,219 Park Laurete Dr,"Houston, TX 77024",(713) 305-9986,,2022-01-28 00:00:00,00220128
+197.5,Jeff Schneider,2423 Bluebonnet Blvd,"Houston, TX 77030",7139070324,,2020-12-11 00:00:00,01201211
+147.0,Jeff Schneider,2423 Bluebonnet Blvd,"Houston, TX , 77030",7139070324,Schnejm@swbell.net,2021-11-12 00:00:00,00211112
+497.0,Jeff Schneider,2423 Bluebonnet Blvd.,"Houston, TX 77030",7139070324,,2021-07-14 00:00:00,00210714
+297.5,Jeff Schneider,2423 Bluebonnet Blvd.,"Houston, TX 77030",7139070324,,2021-07-08 00:00:00,02210708
+147.0,Judy Thompson,9337 Westwood Village Dr,"Houston, TX , 77036",7137716358,jtokangel@sbcglobal.net,2021-10-08 00:00:00,02211008
+7225.0,Jane VanSanten,"12 Lana Ln, Unit A","Houston,  TX  77027",7139069816,janevansanten@gmail.com,2022-01-13 00:00:00,00220113
+975.0,Jane VanSanten,"12 Lana Ln, Unit A","Houston,  TX  77027",7139069816,janevansanten@gmail.com,2022-01-26 00:00:00,02220126
+147.0,Justin Welch,10607 Candlewood Dr,"Houston, TX 77042",7135024427,,2021-05-04 00:00:00,01210504
+197.0,Barry Kahn,9009 Memorial Dr,"Houston, TX 77024",,,2021-01-12 00:00:00,01210112
+497.0,Barry Kahn,9012 Sandringham,"Houston, TX 77024",(713) 829-7321,,2020-07-20 00:00:00,02200720
+197.5,Karen Arnold,2715 Kissmet Ln,"Houston, TX 77043",(832) 282-3074,,2020-10-06 00:00:00,00201006
+975.0,Katie Fields,13510 Indian Creek Rd,"Houston,  TX  77079",7138181579,fields.kt@gmail.com,2021-12-10 00:00:00,01211210
+437.5,Katie Fields,13510 Indian Creek Road,"Houston, TX 77079",7138181579,,2021-07-22 00:00:00,01210722
+1000.0,Kelly Griffin,4614 Locust St,"Bellaire, TX 77401",8322506967,,2021-06-15 00:00:00,00210615
+297.5,Patrick Kinnick,1006 Hayden Creek Drive,"Houston, TX 77479",2812217381,,2021-01-26 00:00:00,00210126
+1575.0,Patrick Kinnick,1006 Hayden Creek Drive,"Houston, TX 77479",2812217381,,2021-02-04 00:00:00,00210204
+394.0,Patrick Kinnick,1006 Hayden Creek Drive,"Sugar Land, TX 77479",2812217381,,2021-02-26 00:00:00,00210226
+2575.0,Patrick Kinnick,1006 Hayden Creek Dr,"Sugar Land, TX 77479",2812217381,,2021-06-15 00:00:00,01210617
+697.0,Connie O Klenke,9238 Elizabeth Rd,"Houston, TX 77055",(281) 802-0710,,2020-07-02 00:00:00,00200702
+404.0,Erin Klenke,9 Inverness Park Circle,"Houston, TX 77055",2818020693,,2020-08-25 00:00:00,00200825
+297.0,Karen Matthews,5124 Tangle Lane,"Houston, TX 77056",2146737094,,2021-02-10 00:00:00,00210210
+297.0,Karen Matthews,5124 Tangle Lane,"Houston, TX 77056",2146737094,,2021-02-22 00:00:00,00210222
+614.5,Karen Matthews,5124 Tangle Lane,"Houston, TX 77056",2146737094,,2021-02-02 00:00:00,01210202
+782.0,Karen Matthews,5124 Tangle Lane,"Houston, TX 77056",2146737094,,2020-09-11 00:00:00,00200911
+1442.0,Katie Morgan,"520 W Pierce St, Unit B","Houston,  TX  77019",7819293617,Kjozmor1@gmail.com,2022-02-03 00:00:00,03220203
+200.0,Jeff Knaggs,3503 Ashfield Dr,"Houston, TX 77082",(646) 675-9981,,2020-07-08 00:00:00,04200708
+197.0,Mike Koby,1115 Briarpark Dr,"Houston, TX 77042",8327100462,,2021-04-13 00:00:00,00210413
+450.0,Bill Koehler,1602 Lynnview,"Houston, TX 77055",7132024545,,2020-11-25 00:00:00,01201125
+197.0,Dean Koy,10610 Fairlane Dr,"Houston, TX 77024",(713) 819-1117,,2020-08-25 00:00:00,04200825
+444.0,Dean Koy,10610 Fairlane Dr,"Houston, TX 77024",(713) 819-1117,,2020-08-03 00:00:00,03200803
+3475.0,Kathy Plugge,651 Hedwig Rd.,"Houston, TX 77024",8324449340,,2021-06-30 00:00:00,02210630
+3475.0,Kathy Plugge,651 Hedwig Rd.,"Houston, TX 77024",8324449340,,2021-06-29 00:00:00,00210629
+797.0,Bruce Krawiecki,1618 Cranway,"Houston, TX 77055",6122109930,,2021-02-23 00:00:00,00210223
+297.0,Kelly Raymond,12038 Sugar Springs Dr,"Houston, TX 77077",,,2021-08-12 00:00:00,00210812
+297.0,Kevin Saltiel,619 Malone St,"Houston, TX 77007",7133197175,,2021-08-04 00:00:00,03210804
+291.0,Kelly Siblik,7811 Bryonwood Dr,"Houston,  TX  77055",8327978358,Kelly.siblik@gmail.com,2022-03-07 00:00:00,04220307
+3475.0,Kingwood Senior Village,"435 Northpines Dr, Unit 420","Kingwood, TX, 77339",,,2020-08-14 00:00:00,00200814
+497.0,Kingwood Senior Village,"435 Northpines Dr, Unit 427","Kingwood, TX, 77339",,,2020-07-14 00:00:00,03200714
+497.0,Kingwood Senior Village,"435 Northpines Dr, Unit 427","Kingwood, TX, 77339",,,2020-07-14 00:00:00,03200714
+4070.4,Kingwood Senior Village,"435 Northpines Dr, 104","Kingwood, TX , 77339",2815482500,assistantmanager@kingwoodseniorvillage.com,2021-10-28 00:00:00,00211028
+4070.4,Kingwood Senior Village,"435 Northpines Dr, #228","Kingwood, TX , 77339",2815482500,mgr@kingwoodseniorvillage.com,2021-12-01 00:00:00,00211201
+,Kingwood Senior Village,"435 Northpines Dr, Unit 331","Kingwood, TX, 77339",,,2021-01-26 00:00:00,01210126
+4070.4,Kingwood Senior Village,435 Northpines Dr,"Kingwood, TX, 77339",,,2021-08-18 00:00:00,01210818
+797.0,Kingwood Senior Village,"435 Northpines Dr, Unit 338","Kingwood, TX, 77339",,,2021-03-09 00:00:00,01210309
+4070.4,Kingwood Senior Village,435 Northpines Dr,"Kingwood, TX, 77339",,,2021-08-18 00:00:00,00210818
+,Kingwood Senior Village,"435 Northpines Dr, Unit 414","Kingwood, TX, 77339",,,2021-05-12 00:00:00,05210512
+4070.4,Kingwood Senior Village,"435 Northpines Dr, #426","Kingwood, TX 77339",2815482500,,2021-07-06 00:00:00,00210706
+4034.07,Kingwood Senior Village,"435 Northpines Dr, #434","Kingwood,  TX  77339",2815482500,mgr@kingwoodseniorvillage.com,2022-03-07 00:00:00,02220307
+0.0,Ann Snodgrass,427 Thamer Ln,"Houston, TX , 77024",7132541075,Annsnodgrass@att.net,2021-09-23 00:00:00,
+,Kingwood Senior Village,435 Northpines Dr (East Elevator Room),"Kingwood, TX, 77339",,,2021-05-07 00:00:00,00210507
+297.0,Kingwood Senior Village,435 Northpines Dr,"Kingwood, TX, 77339",,,2020-07-17 00:00:00,01200717
+3475.0,Kingwood Senior Village,"435 Northpines Dr, Unit 224","Kingwood, TX, 77339",,,2020-09-30 00:00:00,00200930
+5995.0,Kingwood Senior Village,435 Northpines Dr,"Kingwood, TX, 77339",,,2021-09-11 00:00:00,00210911
+381.0,Kingwood Senior Village,"435 Northpines Dr, 1st, 2nd, and 4th floor","Kingwood, TX, 77339",,,2021-09-08 00:00:00,00210908
+574.0,Ken Winn,26 Shadow Ln,"Housotn, TX 77080",7132018376,Angiewcollins@comcast.net,2022-01-12 00:00:00,00220112
+197.5,Jonathan Lack,1025 S Shepherd,"Houston, TX 77019",,,2021-01-12 00:00:00,02210112
+1391.0,Jonathan Lack,1025 S Shepherd #409,"Houston, TX 77019",(713) 539-7978,,2020-07-23 00:00:00,04200720
+294.0,Louise Alexander,4363 Graduate Cir,"Houston, TX , 77004",7137484254,rita_goodbooke@msn.com,2021-10-22 00:00:00,01211022
+692.25,Tina LaLonde,10306 Oak Limb Dr,"Houston, TX 77065",8328656597,,2021-06-02 00:00:00,00210602
+434.0,Meredith Lamberton,14331 Chadbourne Dr,"Houston, TX 77079",7133029888,,2021-03-12 00:00:00,04210312
+8000.0,Meredith Lamberton,14331 Chadbourne,"Houston, TX 77079",7133029888,,2021-05-12 00:00:00,04210512
+371.5,Meredith Lamberton,14331 Chadbourne Dr,"Houston, TX 77079",7133029888,,2020-08-19 00:00:00,00200819
+444.0,David Lam,"11110 Capri St (3507 Mosley Crt, Unit C, Houston, TX 77004)","Houston, TX 77024",7135944941,,2020-01-06 00:00:00,00210106
+507.0,David Lam,"11110 Capri St (407 English St, Houston, TX 77009)","Houston, TX 77024",7135944941,,2021-03-23 00:00:00,03210323
+775.0,David Lam,21206 Bending Green Way,"Katy, TX 77450",7135944941,,2021-05-04 00:00:00,03210504
+921.0,David Lam,5714 Basswood Dale Dr,"Houston, TX 77084",7135944941,,2021-06-29 00:00:00,02210629
+327.0,David Lam,11110 Capri St,"Houston TX, 77024",(713) 594-4941,,2020-08-21 00:00:00,03200821
+200.0,David Lam,21702 N Tangle Creek,"Spring, TX 77388",7135944941,,2020-09-25 00:00:00,00200925
+197.0,David Lam,21702 N Tangle Creek,"Spring, TX 77388",7135944941,,2020-09-02 00:00:00,03200902
+,Jay Lavender,4202 Fox Meadow,"Pasadena, TX 77504",7135452674,,2020-11-09 00:00:00,00201109
+,Jay Lavender,4202 Fox Meadow,"Pasadena, TX 77504",7135452674,,2020-11-09 00:00:00,00201109
+322.0,Jay Lavender,4202 Fox Meadow,"Pasedena, TX 77504",7135452674,,2021-06-17 00:00:00,02210617
+5172.0,Lauren Bennett,1618 Castle Ct,"Houston, TX77006",7135223710,,2021-08-18 00:00:00,02210818
+297.0,Lauren Bennett,1618 Castle Ct,"Houston, TX 77006",,,,
+97.5,Linda Clary,8314 Wind Willow Dr,"Houston, TX 77040",(281) 732-8678,,2021-08-03 00:00:00,01210803
+444.0,Leslie Collins,7807 Fairdale Ln,"Houston, TX , 77063",2104163634,lmcollins52840@gmail.com,2021-11-02 00:00:00,04211102
+147.0,Leslie Collins,7807 Fairdale Ln,"Houston, TX 77063",2104163634,,2021-05-11 00:00:00,03210510
+597.0,Lee Decker,10407 Lynbrook Hollow,"Houston,  TX  77042",8324190848,jleedeck@aol.com,2021-12-23 00:00:00,00211223
+697.0,Lenny Di Cecco,6451 Dylan Springs Ln,"Katy, TX 77450",,,2021-07-13 00:00:00,01210713
+97.5,Paul Leggett,26 Willowron Dr,"Houston, TX 77024",7135823657,,2020-09-14 00:00:00,01200914
+,Susan LeJeune,5105 Locust St,"Bellaire, TX 77401",8329783576,,2020-10-23 00:00:00,01201023
+254.0,John Morris,201 E 27th St,"Houston, TX 77008",(713) 628-5373,,2020-06-30 00:00:00,03200630
+147.0,Susan LeJeune,5105 Locust St,"Bellaire, TX 77401",(832) 978-3576,,2021-03-23 00:00:00,04210323
+197.0,Paul Lersch,"1025 S Shepherd Dr, Unit","Houston, TX 77019",(832) 594-5031,,2020-06-23 00:00:00,02200623
+147.0,Barbara Leslie,1213 Oxford St,"Houston, TX 77008",(713) 208-8030,,2020-07-07 00:00:00,06200707
+297.0,Pius Leung,3911 Sweetglen Ct,"Houston, TX 77479",,,2020-06-24 00:00:00,01200624
+374.0,Pius Leung,3911 Sweetglen Ct,"Sugar Land, TX 77479",7139226688,,2021-04-27 00:00:00,00210427
+297.0,Leon Fress,4418 Austin St,"Houston, TX 77004",2814511867,,2021-06-24 00:00:00,01210624
+347.0,Law Harrington Senior Living,"2222 Cleburne St, Apt 349","Houston, TX 77004",7134975549,lawharringtonseniorlivingmgr@hettig-kahn.com,2022-02-03 00:00:00,00220203
+3350.0,Mary Lipnick,13311 Queensbury Ln,"Houston, TX 77079",8325637618,,2021-04-20 00:00:00,00210420
+451.0,Leslie Mims,12911 Ridge Bank Ln,"Houston, TX 77041",8327818903,,2021-07-19 00:00:00,00210719
+127.0,Liz Murski,5640 Briar Dr,"Houston, TX , 77056",7135010332,emurski@mac.com,2021-10-08 00:00:00,05211008
+97.5,Luis Nevarez,5610 Dumfries Dr,"Houston, TX , 77096",7132837074,luisnev@comcast.net,2021-10-21 00:00:00,00211021
+254.0,Mickel Lobb,8702 Winningham Ln,"Houston, TX 77055",(832) 971-2377,,2020-06-19 00:00:00,00200619
+531.0,Lawrence Lobb,8702 Winningham Ln,"Houston, TX 77055",8326564954,,2021-06-03 00:00:00,02210603
+197.0,Mark Lohr,10118 Papalote,"Houston, TX 77041",8324532312,,2021-03-10 00:00:00,01210310
+297.0,Mark Lohr,2314 Hoskins Dr,"Houston, TX 77080",8324532312,,2021-04-29 00:00:00,01210429
+297.0,Mark Lohr,2314 Hoskins Dr,"Houston, TX 77080",8324532312,,2021-05-03 00:00:00,01210503
+297.0,Mark Lohr,2314 Hoskins Dr,"Houston, TX 77080",(832) 453-2312,,2020-07-17 00:00:00,00200717
+,Steve Lozano,11527 Green Glade,"Houston, TX 77099",2816108154,,2020-09-16 00:00:00,00200916
+147.0,Leslie Roppolo,910 W Cottage Street,"Houston, TX 77009",8328634071,,2021-07-07 00:00:00,02210707
+394.0,Leslie Shofner,10327 Briar Drive,"Houston, TX 77042",7134199999,,2021-07-02 00:00:00,02210702
+1462.0,Lynda Tauber,518 Shadywood Rd,"Houston, TX 77057",7135537970,,2021-04-29 00:00:00,02210429
+5375.0,Lynda Tauber,518 Shadywood Rd,"Houston, TX 77057",(713) 553-7970,,2021-05-03 00:00:00,03210503
+1327.0,Sharon Lundgren,8609 LUPTON LN,"Houston, TX 77055",7132699623,,2020-08-07 00:00:00,00200807
+2875.0,Debe Madden,11822 Castle Ridge Dr,"Houston, TX 77077",7138243891,,2020-12-15 00:00:00,00201215
+451.0,Debe Madden,11822 Castle Ridge Fr,"Houston, TX 77077",7138243891,,2021-06-24 00:00:00,00210624
+975.0,Eleanor Magee,10303 Holly Springs Dr,"Houston, TX 77042",7137803141,,2021-04-05 00:00:00,00210405
+684.0,Sam Mancuso,13306 Havershire,"Houston, TX 77079",7139072196,,2021-06-14 00:00:00,01210614
+824.0,Marty Appelbaum,1364 Sugar Creek Blvd,"Sugar Land, TX 77478",7138588156,,2020-10-19 00:00:00,03201019
+297.0,Marty Appelbaum,1364 Sugar Creek Blvd,"Sugar Land, TX , 77478",7138588156,marty@atiseminars.org,2021-11-02 00:00:00,03211102
+254.0,Maryln Appelbaum,307 Lakeside Blvd,"Sugar Land, TX 77478",8325674018,,2021-07-09 00:00:00,03210709
+297.0,Maria Bearb,9211 Barrington Cir,"Missouri City, TX 77459",2813006256,Mbearb@gmail.com,2022-02-16 00:00:00,00220216
+197.0,Mitchell Berg,1037 East 28th Street,"Houston, TX 77009",8327245683,,2021-07-07 00:00:00,00210707
+297.0,Mitchell Berg,1037 East 28th Street,"Houston, TX 77009",8327245683,,2021-09-10 00:00:00,00210910
+777.0,May Cahill,1123A Banks St,"Houston,  TX  77006",8324597972,maycahill@juno.com,2021-12-07 00:00:00,00211207
+297.0,Tim McAughan,16009 Kube Ct,"Jersey Village, TX 77040",,,2021-06-22 00:00:00,00210622
+2714.5,Tim McAughan,16009 Kube Ct,"Jersey Village, TX 77040",,,2021-06-23 00:00:00,01210623
+1352.0,Tim McAughan,16009 Kube Ct,"Jersey Village, TX 77040",,,2021-06-03 00:00:00,00210603
+127.0,Vickie McCarthy,868 Country Lane,"Houston, TX 77024",7134473195,,2021-04-13 00:00:00,04210413
+147.0,Vickie McCarthy,868 Country Lane,"Houston, TX 77024",7134473195,,2021-04-08 00:00:00,00210408
+197.0,Jim McCubbin,104 Sugarberry Circle,"Houston, TX 77024",(713) 302-8408,,2020-06-18 00:00:00,03200618
+222.0,Gina McEvily,5433 Fieldwood Dr,"Houston, TX 77056",7134109887,,2020-10-26 00:00:00,01201026
+5675.0,Conor McEvily,"1737 Albans Road, Unit 2","Houston, TX 77005",(281) 513-3582,,2021-03-18 00:00:00,01210318
+127.0,Conor McEvily,"1737 Albans Road, Unit 2","Houston, TX 77005",(281) 513-3582,,2021-03-09 00:00:00,00210309
+5875.0,David McGuire,4102 Merrick St,"Houston, TX 77025",7134109125,,2021-05-05 00:00:00,00210505
+497.0,R Lincoln MicGuire,6919 Mobud Dr,"Houston, TX 77074",7139959409,,2020-08-03 00:00:00,00200803
+2887.0,Amy McGuire,14333 Still Meadow Dr.,"Houston, TX 77079",8324837637,,2021-09-15 00:00:00,01210915
+2887.0,Amy McGuire,14333 Still Meadow Dr.,"Houston, TX 77079",8324837637,,2021-09-15 00:00:00,01210915
+254.0,David McGuire,4102 Merrick St,"Houston, TX 77025",7134109125,,2021-05-14 00:00:00,03210514
+2231.0,Monique Chaouche,118 Cinnamon Oak Ln,"Houston, TX 77079",7133675130,,2021-06-21 00:00:00,01210621
+147.0,Monique Chaouche (118 Cinnamon Oak Ln),10627 Ivyridge Road,"Houston, TX 77043",7133675130,,2021-04-27 00:00:00,03210427
+147.0,Monique Chaouche (118 Cinnamon Oak Ln),2407 Lazy Spring,"Houston, TX 77080",7133675130,,2021-04-27 00:00:00,04210427
+644.0,Monique Chaouche,118 Cinnamon Oak Ln,"Houston, TX 77079",7133675130,,2021-04-27 00:00:00,02210427
+,JEAN MCNAMARA,4610 LOCUST ST,"Bellaire, TX 77401",8323738093,,2020-09-08 00:00:00,01200908
+4475.0,Mark Dryden,702 E 20th St,"Houston, TX 77008",8325940344,,2021-07-20 00:00:00,04210730
+381.0,Mark Dryden,702 E 20th St,"Houston, TX 77008",8325940344,,2021-07-16 00:00:00,01210716
+197.0,Mary Ewing,9537 Bayou Brook ST,"Houston, TX 77063",5048136279,,2021-07-30 00:00:00,02210730
+254.0,Mary Ewing,9537 Bayou Brook Street,"Houston, TX 77063",5048136279,,2021-07-21 00:00:00,01210721
+2367.0,Milton Graves,1616 Fountainview #401,"Houston,Texas 77057",7139537079,mgraves@cockrell.com,2021-10-27 00:00:00,00211025
+2367.0,Milton Graves,1616 Fountainview #401,"Houston,Texas 77057",7139537079,mgraves@cockrell.com,2021-10-27 00:00:00,00211025
+2875.0,Milton Graves,1616 Fountainview #401,"Houston,Texas 77057",7139537079,mgraves@cockrell.com,2021-10-27 00:00:00,02211021
+2875.0,Milton Graves,1616 Fountainview #401,"Houston,Texas 77057",7139537079,mgraves@cockrell.com,2021-10-27 00:00:00,02211021
+381.0,Marianne Hettig,16 Sovereign Cr,"Richmond, TX , 77469",2813448311,Mhettig@hettig-Kahn.com,2021-11-30 00:00:00,03211130
+,George Mims,12911 Ridge Bank Ln,"Houston, TX 77041",8327818903,,2020-09-28 00:00:00,00200928
+127.0,Pam Mitchell,"11201 Lynbrook Dr, #3810","Houston, TX 77042",8323626374,,2020-11-24 00:00:00,00201124
+147.0,Marian Jackson,12427 Woodthorpe Ln,"houston, TX 77024",7134641389,,2021-07-07 00:00:00,01210707
+197.0,Meredith Lamberton,14331 Chadbourne Dr,"Houston,  TX  77079",7133029888,amlamberton@me.com,2022-01-04 00:00:00,02220103
+297.0,Mark Lohr,2314 Hoskins,"Houston, TX 77080",8324532312,,2021-08-24 00:00:00,02210824
+975.0,Michelle Maresh,5413 Judalon Lane,"Houston, TX 77056",7134986404,,2021-08-13 00:00:00,0210813
+294.0,Michelle Maresh,5413 Judalon Lane,"Houston, TX 77056",7134986404,,2021-08-12 00:00:00,01210812
+394.0,Muscle Maker Grill,"6415 San Felipe, Suite B","Houston, TX 77057",(713) 627-0915,ankar78@yahoo.com,2021-10-07 00:00:00,02211007
+254.0,John Morris,201 E 27th St,"Houston, TX 77008",(713) 628-5373,,2020-06-30 00:00:00,03200630
+254.0,Margaret Rochs,"1025 South Shepherd, #202","Houston, TX 77019",,,2021-07-22 00:00:00,00210722
+345.0,Brenda Mueller,1214 Walnut Bend Ln,"Houston, TX 77042",8325779477,,2021-05-25 00:00:00,00210525
+147.0,Brenda Mueller,1214 Walnut Bend,"Houston, TX 77042",8325779477,,2020-09-09 00:00:00,01200909
+297.0,Bobby Mulvey,126 Sugarberry,"Houston, TX 77024",7139062131,,2020-08-03 00:00:00,01200803
+2875.0,Townhomes of Bay Forest,"6304 Decker Dr, Apt 208","Houston, TX 77520",,,2020-07-02 00:00:00,
+197.0,Bill Murski,5640 Briar Drive,"Houston, TX 77056",(713) 419-5474,,2020-07-27 00:00:00,01200727
+697.5,Mindy Voyles,10826 Everwood Ln,"Houston, TX , 77024",7137054881,mindyvoyles@comcast.net,2021-10-07 00:00:00,00211007
+200.0,Mindy Voyles,10826 Everwood Ln,"Houston, TX , 77024",7137054881,mindyvoyles@comcast.net,2021-11-30 00:00:00,04211130
+97.5,Matthew Weinstein,"1025 S Shepherd, #102","Houston, TX , 77019",7135034119,mtweinstein@gmail.com,2021-09-15 00:00:00,02210915
+434.0,Mark Williams,5945 Shady River Dr,"Houston, TX 77057",7138062645,,2021-06-07 00:00:00,00210607
+1475.0,Michael Winston,5023 Breasvalley Dr,"Houston, TX 77096",7134999442,,2021-08-27 00:00:00,00210827
+197.0,Michael Winston,5023 Braesvalley drive,"Houston, TX 77096",7134999442,,2021-09-08 00:00:00,05210908
+197.0,Derek Myers,6139 Burgoyne Road,"Houston, TX 77057",9178620203,,2020-11-03 00:00:00,02201103
+197.0,Marcos Zuazu,"1025 S Shepherd Dr, #304","Houston, TX 77019",0,drzuazu@sbcglobal.net,2021-10-28 00:00:00,01211028
+727.0,Marcos,"1025 S Shepherd Dr, #304","Houston, TX 77019",,,2021-10-14 00:00:00,00211014
+254.0,Nash Naviwala,1025 S Shepherd #201,"Houston, TX 77019",9186718941,,2021-03-08 00:00:00,01210308
+244.5,Ainslie Taylor Nibert,10023 Meadow Lake Lane,"Houston, TX 77042",7139979750,,2021-05-12 00:00:00,00210512
+297.0,Natasha King,10206 Briar Dr,"Houston, TX 77042",7138762220,,2021-07-02 00:00:00,00210702
+254.0,Nash Naviwala,1025 S Shepherd Drive # 201,"Houston, TX 77019",9186718941,,2021-07-13 00:00:00,00210713
+297.0,The Orchard at Garden Oaks,"880 W 34th St, Apt 1405","Houston, TX 77018",(713) 861-3800,,2020-07-08 00:00:00,03200708
+127.0,The Orchard at Garden Oaks,"880 W 34th St, Apt 2216","Houston, TX 77018",(713) 861-3800,,2020-07-14 00:00:00,02200714
+697.0,The Orchard at Garden Oaks,"880 W 34th St, Apt 2313","Houston, TX 77018",(713) 861-3800,,2020-07-07 00:00:00,04200707
+697.5,The Orchard at Garden Oaks,"880 W 34th St, Apt 1409","Houston, TX 77018",(713) 861-3800,,2020-09-25 00:00:00,01200925
+1875.0,Orchard Park at Willowbrook,13350 Perry Rd,"Houston, TX 77070",(832) 237-7000,,2020-07-30 00:00:00,01200730
+97.5,The Orchard at Westchase,"10801 Westpark Dr, Apt 1104","Houston, TX 77042",(713) 334-7500,,2021-02-19 00:00:00,02210219
+2475.0,The Orchard at Westchase,"10801 Westpark Dr, Apt 1104","Houston, TX 77042",(713) 334-7500,,2020-06-22 00:00:00,00200622
+196.5,The Orchard at Westchase,10801 Westpark Dr,"Houston, TX 77042",(713) 334-7500,,2021-06-30 00:00:00,01210612
+297.0,The Orchard at Westchase,"10801 Westpark Dr, Community Center, Unit 6","Houston, TX 77042",(713) 334-7500,,2020-07-14 00:00:00,01200714
+975.0,The Orchard at Westchase,"880 W 34th St, Apt 3202","Houston, TX 77018",(713) 861-3800,,2020-07-17 00:00:00,02200717
+584.0,The Orchard at Westchase,"880 W 34th St, Apt 3402","Houston, TX 77018",(713) 861-3800,,2020-07-28 00:00:00,00200728
+297.0,The Orchard at Westchase,"10801 Westpark Dr, Community Center, Unit 5","Houston, TX 77042",(713) 334-7500,,2020-07-14 00:00:00,00200714
+197.0,The Orchard at Westchase,"10801 Westpark Dr, #3210","Houston, TX 77042",(713) 334-7500,,2020-08-13 00:00:00,00200813
+197.0,The Orchard at Westchase,"10801 Westpark Dr, #3407","Houston, TX 77042",(713) 334-7500,,2020-08-13 00:00:00,01200813
+994.0,The Orchard at Westchase,"10801 Westpark Dr, #3401 and Hallway","Houston, TX 77042",(713) 334-7500,,2020-08-03 00:00:00,02200803
+497.0,The Orchard at Westchase,"10801 Westpark Dr, Building 3, 4th Floor Hallway","Houston, TX 77042",(713) 334-7500,,2020-09-02 00:00:00,01200902
+317.0,The Orchard at Westchase,"10801 Westpark Dr, #3404","Houston, TX 77042",(713) 334-7500,,2020-09-02 00:00:00,02200902
+197.0,The Orchard at Westchase,"10801 Westpark Dr, #2404","Houston, TX 77042",(713) 334-7500,,2020-09-03 00:00:00,00200903
+494.0,The Orchard at Westchase,"10801 Westpark Dr, #2904","Houston, TX 77042",(713) 334-7500,,2020-09-02 00:00:00,00200902
+297.0,Oliver Middleton,7621 Brykerwoods,"Houston, TX 77055",2815130661,,2021-07-22 00:00:00,05210722
+5375.0,"Houston, TX 77091",(713) 206-5975,,,,2020-06-17 00:00:00,00200617
+3650.2100840336134,Orchard Park at Willowbrook,13350 Perry Rd,"Houston, TX 77070",(832) 237-7000,,2021-08-18 00:00:00,04210818
+497.0,The Orchard at Willowbrook,"13350 Perry Rd, #426","Houston, TX 77070",8322377000,orchardwillowbrookleasing@hettig-kahn.com,2021-10-18 00:00:00,04211018
+467.0,Ryan Owen,1025 S. Shepherd Dr #101,"Houston, TX 77019",(832) 715-4288,,2020-08-07 00:00:00,01200807
+1549.3697478991596,The Orchard at Westchase,10801 Westpark Dr,"Houston, TX 77042",(713) 334-7500,,2021-08-18 00:00:00,03210818
+197.5,Paul Ankar,2933 Bering Ct,"Houston, TX , 77057",7132406071,ankar78@yahoo.com,2021-09-21 00:00:00,00210921
+291.0,Tim Parker,8206 Burkhart Dr,"Houston, TX 77055",(713) 828-6930,,2021-03-18 00:00:00,02210318
+194.0,Jill Parsley,10027 Briar Dr,"Houston, TX 77042",(713) 256-3954,,2021-03-23 00:00:00,01210323
+291.0,Jill Parsley,10027 Briar Dr,"Houston, TX 77042",(713) 256-3954,,2021-03-23 00:00:00,01210323
+147.0,Pat Batton,11226 Cliffwood Dr,"Houston, TX 77035",7137050422,,2021-08-03 00:00:00,04210803
+3475.0,"Philip Cannon, Jr",2202 Tangley Street,"Houston,  TX  77005",7133851549,usmccannon@gmail.com,2022-02-23 00:00:00,02220223
+3475.0,Philip Cannon,2202 Tangley Street,"Houston, TX 77005",7133851549,,2021-01-27 00:00:00,00210127
+0.0,Paul DeAyala,909 Rutland,"Houston, TX, 77008",7138265686,Pddeayala@gmail.com,2021-10-08 00:00:00,
+0.0,Paul De Ayala,909 Rutland,"Houston, TX 77008",7138265686,,2020-11-09 00:00:00,01201109
+297.0,Paul De Ayala,909 Rutland,"Houston, TX 77008",7138265686,,2021-06-29 00:00:00,01210629
+697.0,Megan Scheffer,PO Box 441845,"Houston, TX 77244",(281) 376-9130,,,
+5375.0,Margaret Peters,11007 Hunters Park Dr,"Houston, TX 77024",7138278237,,2020-12-01 00:00:00,00201201
+291.0,Margaret Peters,11007 Hunters Park Dr,"Houston, TX 77024",7138278237,,2021-01-12 00:00:00,00210112
+13991.0,Patrick Hickey,6050 Crab Orchard Rd,"Houston, TX , 77057",7132912889,,2021-12-02 00:00:00,03211202
+1972.0,Patrick Hickey,6050 Crab Orchard Rd,"Houston, TX , 77057",7132912889,,2021-12-02 00:00:00,02211202
+497.5,Carlos Pineda,"1025 S. Shepherd, Unit 203","Houston, TX 77019",9132071764,,2020-09-01 00:00:00,01200901
+147.0,Pricilla E Jackson,7886 Kendalia Dr,"Houston, TX 77036",7138160787,,2021-06-18 00:00:00,00210618
+697.0,Patrick Kinnick,1006 Hayden Creek Dr,"Sugar Land, TX 77479",2812217381,,2021-08-17 00:00:00,01210817
+551.0,Paul Lersch,"1025 S Shepherd Dr, Unit 302","Houston, TX 77019",(832) 594-5031,,2021-07-22 00:00:00,02210722
+197.0,Kathy Plugge,651 Hedwig Rd,"Houston, TX 77024",8324449340,,2021-03-18 00:00:00,03210318
+127.0,Pam Mitchell,"11201 Lynbrook Dr,  #3810","Houston,  TX  77042",8323626374,pammie.mitch@gmail.com,2022-03-17 00:00:00,00220317
+254.0,Antoinette Post,10022 Inwood,"Houston, TX 77042",7138196423,,2021-04-16 00:00:00,02210416
+147.0,Jan Powell,5102A Jackson St,"Houston, TX 77004",8322875630,,2020-12-22 00:00:00,00201222
+147.0,Jan Powell,5102A Jackson St,"Houston, TX 77004",8322875630,,2021-05-12 00:00:00,03210512
+975.0,Patrick Smetek,4027 Mischire Dr,"Houston, TX 77025",7132534700,,2021-06-18 00:00:00,02210618
+6975.0,Jennifer Randle,219 Park Laurete,"Houston, TX 77024",7133059986,,2021-04-19 00:00:00,01210419
+544.25,Jennifer Randle,1122 Ginea Dr,"Houston, TX 77055",7133059986,,2021-05-12 00:00:00,06210512
+297.0,Kelly Raymond,12038 Sugar Springs Dr,"Houston, TX 77077",(713) 410-5304,,2020-07-23 00:00:00,02200723
+227.0,Rob Blain,4436 Coyle St,"Houston,  TX  77023",8322651996,robxtwo@sbcglobal.net,2021-12-02 00:00:00,01211202
+147.0,Ricardo Cantu,9019 Greiner Dr,"Houston, TX 77080",8326180035,,2020-06-23 00:00:00,00210623
+297.5,Robert Collier,824 Heights Blvd,"Houston, TX , 77007",7138220393,robert@collierlegal.com,2021-09-28 00:00:00,04210928
+254.0,Janice Redd,10202 Green Tree Rd,"Houston, TX 77042",(609) 477-9039,,2020-06-18 00:00:00,03200618
+447.5,"Reventar Enterprises, LLC",880 Tully St,"Houston, TX  77079",8322358795,,2020-08-20 00:00:00,00200820
+497.5,"Reventar Enterprises, LLC",880 Tully St,"Houston, TX  77079",8322358795,,2020-08-20 00:00:00,00200820
+147.0,Randi Revisore,454 Wilcrest Dr,"Houston, TX 77042",5129652538,,2020-10-19 00:00:00,00201019
+577.0,Ryan Hettig,1615 Locksley Lane,"Sugar Land, TX 77479",2812027381,,2021-07-20 00:00:00,01210720
+541.0,Ryan Hettig,1615 Locksley lane,"Sugar Land, TX 77479",2812027381,,2020-08-14 00:00:00,02200814
+734.0,Ryan Hettig,1615 Locksley Ln,"Sugar Land, TX 77479",2812027381,,2021-08-31 00:00:00,02210831
+197.0,Renee Humphrey,6143 Doliver Dr,"Houston, TX 7057",(713) 269-5063,,2021-07-28 00:00:00,06210728
+197.5,Renee Humphrey,6143 Doliver Dr,"Houston, TX 7057",7132695063,,2021-07-22 00:00:00,06210722
+147.0,Robin Hunter,1531 Wood Lodge Dr,"Houston, TX 77077",7133854805,,2021-09-09 00:00:00,00210909
+297.0,Robert Jackson,733 Highgrove Park,"Houston,  TX  77024",7138299805,Rwjackson1960@sbcglobal.net,2022-01-25 00:00:00,00220125
+777.0,Robert Jackson,733 Highgrove Park,"Houston,  TX  77024",7138299805,Rwjackson1960@sbcglobal.net,2022-02-22 00:00:00,02220222
+297.0,Robert Jackson,,,,,2021-07-30 00:00:00,01210730
+975.0,Robert Jackson,733 Highgrove Park,"Houston, TX , 77024",7138299805,Rwjackson1960@sbcglobal.net,2021-09-28 00:00:00,01210928
+797.0,Rachel Matthews,11729 Spriggs Way,"Houston, TX 77024",8326479938,,2021-05-28 00:00:00,00210518
+297.0,Rachel Matthews,11729 Spriggs Way,"Houston, TX 77024",8326479938,,2021-07-12 00:00:00,02210712
+967.0,Rachel Matthews,11729 Spriggs Way,"Houston, TX 77024",8326479938,,2020-08-19 00:00:00,01200819
+297.0,Rachel Matthews,11729 Spriggs Way,"Houston, TX 77024",8326479938,,2020-08-08 00:00:00,00200808
+297.0,Richard Miller,3810 Cedar Valley Dr,"Missouri City, TX 77459",(281) 221-7971,,2020-08-03 00:00:00,04200803
+344.5,Ross Nicholson,9202 Roy Bean Dr,"Houston, TX 77041",7132042144,rossnich@att.net,2021-12-02 00:00:00,00211202
+197.0,Margaret Rochs,"1025 S Shepherd Dr, Unit 202","Houston, TX 77019",(713) 557-5215,,2020-06-23 00:00:00,02200623
+297.0,George Rodriguez,12027 Whittington Dr,"Houston, TX 77077",7134787191,,2020-09-04 00:00:00,00200904
+147.0,Randi Revisore 2,6155 Piping Rock Ln,"Houston,  TX  77057",5129652538,rrevisore@gmail.com,2022-01-24 00:00:00,01220124
+497.0,Randi Revisore,454 Wilcrest,"Houston, TX 77042",5129652538,,2021-08-31 00:00:00,00210831
+5675.0,Randi Revisore,454 Wilcrest Dr,"Houston, TX , 77057",(512) 965-2538,rrevisore@gmail.com,2021-09-16 00:00:00,01210916
+3675.0,Robin Sample,8729 Fairbend,"Houston, TX 77055",8322028975,rsample@hettig-kahn.com,2021-12-30 00:00:00,01211230
+557.0,Richard Vetter,1339 E Brooklake Dr,"Houston, TX 77077",6309264360,,2021-06-11 00:00:00,00210611
+197.0,Robin Sample,8107 Rondo Ct,"Houston, TX 77040",8322028975,,2021-03-12 00:00:00,02210312
+,Robin Sample,8107 Rondo Ct,"Houston, TX 77040",(832) 202-8975,,2020-08-25 00:00:00,07200825
+444.0,Shane Santiff,1914 Restridge Drive (Property:2919 Rosedale),"Houston, TX 77055",2817885956,,2020-12-22 00:00:00,01201222
+848.0,Shane Santiff,1914 Restridge Drive (2919 Rosedale),"Houston, TX 77055",2817885956,,2020-12-22 00:00:00,01201222
+147.0,Shane Santiff,1914 Restridge Dr,"Houston, TX 77055",(281) 788-5956,,2020-07-02 00:00:00,04200702
+3875.0,Stephanie Arnold,3434 Wickersham Ln,"Houston,  TX  77027",7132541708,sbarnold2@gmail.com,2022-01-11 00:00:00,00220111
+297.0,Stephanie Arnold,3434 Wickersham Ln,"Houston, TX 77027",7132541708,,2021-06-30 00:00:00,00210630
+297.0,Stephanie Arnold,3434 Wickersham Lane,"Houston, TX 77027",7132541708,,2021-07-28 00:00:00,05210728
+197.5,Stephanie Arnold,3434 Wickersham Lane,"Houston, TX 77027",7132541708,,2021-07-20 00:00:00,00210720
+544.0,South Acres Ranch,11409 Scott Street,"Houston,  TX  77047",7137312800,southacresranchmgr@hettig-kahn.com,2022-02-23 00:00:00,01220223
+297.0,South Acres Ranch Apartments,3850 Bessie Swindle Way,"Houston, TX 77047",,,2021-07-09 00:00:00,01210709
+2175.0,South Acres Ranch,3850,"Houston, TX , 77047",7137312800,southacresranchmgr@hettig-kahn.com,2021-09-25 00:00:00,02210924
+1475.0,South Acres Ranch Apartments,11409 Scott Street,"Houston, TX 77047",,,2021-08-13 00:00:00,00210813
+147.0,Suzy Burleson,4527 Devon Street,"Houston, TX , 77027",7133014110,burleson@hal-pc.org,2021-10-08 00:00:00,01211008
+244.0,Glenna Scharon,4006 Roseland St,"Houston, TX 77006",2813849644,,2021-04-01 00:00:00,00210401
+147.0,Glenna Scharon,4006 Roseland St,"Houston, TX 77006",(281) 384-9644,,2020-06-18 00:00:00,01200618
+197.0,Ward Schmidt,7610 Montglen,"Houston, TX 77061",7132014782,,2020-09-01 00:00:00,00200901
+197.0,Steve Dorman,10023 Inwood Drive,"Houston, TX 77042",(713) 480-7788,steve.dorman@comcast.net,2022-01-24 00:00:00,00220124
+811.0,Connie Seegmiller,5715 Tangle Circle Ln,"Houston, TX 77057",,,2021-04-29 00:00:00,00210429
+254.0,Tim Seipel,"6305 Pickens St, Unit A","Houston, TX 77007",(832) 545-7092,,2020-06-30 00:00:00,04200630
+254.0,Sergey Faerman,10331 Briar Dr,"Houston, TX 77042",,,2021-07-27 00:00:00,01210727
+197.0,Silvia,"1025 S Shepherd Dr, #306","Houston, TX 77019",,silcer2006@libero.it,2022-01-25 00:00:00,01220125
+,Sterling Green Village,970 Leadenhall Cir,"Channelview, TX 77530",,,2021-01-07 00:00:00,01210107
+,Sterling Green Village,970 Leadenhall Cir,"Channelview, TX 77530",,,2021-01-07 00:00:00,00210107
+297.0,Sterling Green Village–15125 Tayport Ln,15255 Ferness,"Channelview, TX 77530",,,2020-12-30 00:00:00,01201230
+1475.0,Sterling Green Village,15255 Ferness,"Channelview,  TX 77530",0,SGV@Hettig-kahn.com,2022-02-03 00:00:00,04220203
+4875.0,Sterling Green Village,15255 Ferness Ln,"Houston, TX 77530",,,2021-04-13 00:00:00,
+3275.0,Sterling Green Village,972 Leadenhall Cir,"Channelview, TX 77530",2816675899,,2021-06-24 00:00:00,02210624
+,Sterling Green Village,932 Willersley,"Houston, TX 77530",(281) 457-2800,,2020-07-20 00:00:00,00200720
+,Sterling Green Village,964 Willersley,"Houston, TX 77530",(281) 457-2800,,2020-07-16 00:00:00,00200716
+4070.4,Sterling Green Village,15135 Tayport Ln,"Channelview, TX 77530",,,2021-07-30 00:00:00,03210730
+,Sterling Green Village,15255 Ferness Ln,"Channelview, TX 77530",2816675899,,2020-09-04 00:00:00,01200904
+11697.0,Steve Hartwig,664 W Forest Dr,"Houston, TX , 77079",7139629170,Schartwig@sbcglobal.net,2021-11-10 00:00:00,00211110
+10372.0,Steve Hartwig,664 W Forest Dr,"Houston, TX , 77079",7139629170,Schartwig@sbcglobal.net,2021-11-05 00:00:00,00211104
+975.0,Steve Hartwig,664 W Forest Dr,"Houston, TX 77079",7139629170,,2021-08-06 00:00:00,03210806
+344.0,Leslie Shofner,10327 Briar Drive,"Houston, TX 77042",7134199999,,2020-08-14 00:00:00,01200814
+291.0,Kelly Siblik,7811 Bryonwood Dr,"Houston, TX 77055",8327978358,,2021-05-14 00:00:00,02210514
+196.0,Shannon K Sinclair,12618 Pebblebrook Dr,"Houston, TX 77024",8324919247,,2021-01-06 00:00:00,01210106
+254.0,Shannon K Sinclair,12618 Pebblebrook Dr,"Houston, TX 77024",8324919247,,2020-12-30 00:00:00,00201230
+697.0,Shannon Sinclair,12618 Pebblebrook Dr.,"Houston, TX 77024",8324919247,,2021-04-16 00:00:00,01210416
+727.0,Shannon Sinclair,12618 Pebblebrook Dr.,"Houston, TX 77024",8324919247,,2021-04-16 00:00:00,00210416
+17750.0,St. Joseph Catholic Church,1505 Kane St,"Houston, TX 77007",7136289499,,2020-12-11 00:00:00,00201211
+17750.0,St. Joseph Catholic Church,1505 Kane St,"Houston, TX 77007",7136289499,,2020-09-24 00:00:00,00200924
+323.5,Sandra Johnson,5719 Tangle Circle Lane,"Houston, TX 77057",(713) 822-4558,,2021-02-19 00:00:00,00210219
+450.0,Barrington Skipton,2221A Potomac,"Houston, TX 77057",7133838561,,2020-11-14 00:00:00,00201114
+524.0,Susan Skipton,2218 Jamara Ln,"Houston, TX 77077",(713) 899-5545,,2020-08-25 00:00:00,06200825
+297.0,Susan LeJeune,9663 Judalon Ln,"Houston, TX 77063",8329783576,susu830@yahoo.com,2021-10-25 00:00:00,01211025
+197.0,Susan LeJeune,5105 Locust St,"Bellaire, TX , 77401",7134440930,susu830@yahoo.com,2021-10-27 00:00:00,00211027
+1475.0,Susan LeJeune,5105 Locust St,"Bellaire, TX , 77401",7134440930,susu830@yahoo.com,2021-10-18 00:00:00,02211018
+657.0,Susan E LeJeune,5105 Locust St,"Bellaire, TX 77401",8329783576,,2021-08-27 00:00:00,01210827
+197.0,Stephen Leslie,1219 Oxford St,"Houston, TX 77008",7138994571,stephen.c.leslie@gmail.com,2021-11-05 00:00:00,00211105
+584.0,Stephen Leslie,1217 Oxford St,"Houston, TX 77008",7138994571,,2021-07-21 00:00:00,02210721
+297.0,Steve Lozano,11527 Green Glade,"Houston, TX 77099",,,2021-07-28 00:00:00,07210728
+197.0,Sharon Lundgren,8609 Lupton Ln,"Houston, TX , 77055",7134658820,sltrial@sbcglobal.net,2021-11-30 00:00:00,02211130
+0.0,NAME,,,,,2021-11-08 00:00:00,
+97.5,Sharon Lundgren,8609 Lupton Ln,"Houston,  TX  77055",7134658820,sltrial@sbcglobal.net,2022-01-23 00:00:00,01220123
+697.0,Sharon Lundgren,8609 Lupton Ln,"Houston,  TX  77055",7134658820,sltrial@sbcglobal.net,2022-02-03 00:00:00,01220203
+551.0,Steven Merrill,2415 Rosamond St,"Houston, TX 77098",8328784948,,2021-12-23 00:00:00,01211223
+1272.0,Steven Merrill,2415 Rosamond St,"Houston, TX 77098",(832) 878-4948,,2021-08-24 00:00:00,01210824
+629.5,Patrick Smetek,4027 Mischire Dr,"Houston, TX 77025",7132534700,,2021-03-26 00:00:00,02210326
+327.0,Holly Smetek,4131 Grennoch Ln,"Houston, TX 77025",(713) 253-4889,,2020-07-08 00:00:00,05200708
+4875.0,Holly Smetek,4027 Mischire Dr,"Houston, TX 77025",(713) 253-4889,,2020-07-07 00:00:00,01200707
+197.0,Holly Smetek,4027 Mischire Dr,"Houston, TX 77025",(713) 253-4889,,2020-07-07 00:00:00,01200707
+5600.0,Dean Smith,1464 California Street,"Houston, TX 77006",(281) 678-2605,,2021-03-15 00:00:00,00210315
+985.5,Dean Smith,1464 California Street,"Houston, TX 77006",2816782605,,2021-03-12 00:00:00,01210312
+127.5,Ann Snodgrass,427 Thamer Ln,"Houston, TX 77024",7132541075,,2021-03-10 00:00:00,00210310
+97.5,Ann Snodgrass,427 Thamer Ln,"Houston, TX 77024",7132541075,,2021-05-12 00:00:00,01210512
+1412.0,Susan Solcher,2217 Maconda,"Houston, TX 77027",7134441930,,2020-08-13 00:00:00,01200813
+297.0,Jordan Solcher,8015 Highmeadow Dr,"Houston, TX 77063",7135869527,,2021-05-19 00:00:00,02210519
+200.0,Thomas Sparks,9019 Greiner,"Houston, TX 77080",(713) 410-5254,,2020-11-06 00:00:00,01201106
+147.0,Stephen Speights,10014 Cedar Creek Dr,"Houston, TX 77042",(318) 525-7972,,2020-10-29 00:00:00,01201029
+4070.4,Sheldon Ranch,"930 Dell Dale, #116","Channelview, TX 77049",,,2021-09-16 00:00:00,02210916
+551.0,Skip Redd,1203 Briarpark Drive,"Houston, TX 77042",7134173720,,2021-08-25 00:00:00,00210825
+127.0,Shane Santiff,1914 Restridge Drive,"Houston, TX 77055",2817885956,,2021-07-30 00:00:00,06210730
+697.0,Shane Santiff,1914 Restridge Drive,"Houston, TX 77055",2817885956,,2021-08-19 00:00:00,00210819
+297.0,Shane Santiff,1914 Restridge Dr,"Houston, TX 77055",2817885956,,2021-08-17 00:00:00,00210817
+147.0,Sherri Steele,4414 Goldfinch St,"Houston, TX 77035",(713) 208-4124,,2020-07-07 00:00:00,07200707
+254.0,Beth Steier,10015 Briar Drive,"Houston, TX 77042",7138257288,,2020-12-02 00:00:00,00201202
+254.0,Ned Stewart,1216 Ripple Creek,"Houston, TX 77057",7132549835,,2021-04-27 00:00:00,05210427
+594.0,Michelle Still,2711 Quenby Ave,"Houston, TX 77005",7135011656,,2021-03-10 00:00:00,02210310
+,Michele Still,2711 Quenby Ave,"Houston, TX 77005",(713) 501-1656,,2020-07-15 00:00:00,01200715
+297.0,Steve Strake,10714 Old Coach Ln,"Houston, TX 77024",7138518585,,2021-01-11 00:00:00,01210111
+1306.25,Steve Strake,10714 Old Coach Ln,"Houston, TX 77024",7138518585,,2020-12-01 00:00:00,02201201
+-1175.0,Steve Strake,,,,,2021-02-26 00:00:00,01210226
+297.0,Steve Strake,10714 Old Coach Lane,"Houston, TX 77024",7138518585,,2021-03-31 00:00:00,01210331
+525.0,Steve Strake,10714 Old Coach Ln,"Houston, TX 77024",,,2021-04-13 00:00:00,01210226
+297.0,Pius Leung,3911 Sweetglen Ct,"Houston, TX 77479",,,2020-06-24 00:00:00,01200624
+294.0,Ned Stuart,1216 Ripple Creek Drive,"Houston, TX 7757",7132549835,,2021-06-22 00:00:00,01210622
+197.0,Ned Stuart,1216 Ripple Creek Drive,"Houston, TX 77057",7132549835,,2020-08-19 00:00:00,03200819
+449.5,K. Sullivan,335 Cinnamon Oak Ln,"Houston, TX 77079",,,2020-07-02 00:00:00,01200702
+2575.0,Chuck Sutherland,1025 S Shepard #204,"Houston, TX 77019",(832) 428-4277,,2021-04-29 00:00:00,03210429
+612.0,T&D Towing LLC,PO Box 3249,"Morgan City, LA",,,2020-09-08 00:00:00,00200908
+494.0,"David Tauber, Jr.",6613 Wharton St,"Houston, TX 77055",8324444389,,2021-03-26 00:00:00,01210326
+200.0,David Tauber,6613 Wharton St,"Houston, TX 77055",8324444389,,2021-04-09 00:00:00,00210409
+6472.0,David Tauber,518 Shadywood Rd,"Houston, TX 77057",7135537970,,2021-05-24 00:00:00,00210524
+991.0,David Tauber,518 Shadywood Rd,"Houston, TX 77057",7135537970,,2021-05-20 00:00:00,00210520
+975.0,Nabihah Tayob,"2520 Robinhood Street, Apt 807","Houston, TX 77005",6463469636,,2020-10-26 00:00:00,00201026
+494.0,Nabihah Tayob,"2520 Robinhood St, Apt 807","Houston, TX 77005",7342394235,,2021-03-18 00:00:00,00210318
+344.0,Nabihah Tayob,"2520 Robinhood Street, Apt 807","Houston, TX 77005",(734) 239-4235,,2020-07-27 00:00:00,00200727
+197.0,Terri Chase (1950 Ridgemore Dr),10627 North Evers Park,"Houston, TX 77024",7133925001,,2021-01-29 00:00:00,00210129
+387.0,Terri Chase,7015 Jalna St,"Houston, TX 77055",,,2021-05-12 00:00:00,02210512
+1622.0,Toby Dagenhart,2222 Briarwest Blvd,"Houston, TX 77077",7135152658,TobyDagenhart@gmail.com,2021-11-05 00:00:00,
+297.0,Townhomes of Bay Forest,"6304 Decker Dr, Apt 208","Houston, TX 77520",,,2020-07-02 00:00:00,03200702
+3075.0,Torry Hill,10031 Inwood Dr,"Houston, TX , 77042",7139776130,bue@swbell.net,2021-10-21 00:00:00,01211021
+3475.0,Torry Hill,10031 Inwood Dr,"Houston, TX , 77042",7139776130,bue@swbell.net,2021-11-30 00:00:00,00211130
+297.0,Tidwell Estates,"1200 W. Tidwell Rd., #1203","Houston, TX 77091",7136928020,,2021-06-21 00:00:00,00210621
+4070.4,Tidwell Estates,"1200 W Tidwell, #404","Houston, TX , 77091",7136928020,tidwellestatesmgr@hettig-kahn.com,2021-10-18 00:00:00,00211018
+297.0,Tidwell Estates,"1200 W. Tidwell, #2904","Houston, TX 77091",(713) 692-8020,,2020-08-25 00:00:00,05200825
+2475.0,Tidwell Estates,"1200 W. Tidwell, #2904","Houston, TX 77091",(713) 692-8020,,2020-08-21 00:00:00,00200821
+650.0,Alyssa Tiras,3220 Bammel Lane,"Houston, TX 77098",7139229983,,2020-10-29 00:00:00,00201029
+147.0,Alicia Lee,10043 Locke Ln,"Houston, TX 77042",7138283798,teri.lee@sbcglobal.net,2021-11-08 00:00:00,01211108
+227.0,Teresa Lee,11718 Longleaf Ln,"Houston, TX 77024",7138235734,teri.lee@sbcglobal.net,2021-11-08 00:00:00,02211108
+297.5,Tim McAughan,16009 Kube Ct,"Jersey Village, TX 77040",,,2021-10-06 00:00:00,00211006
+297.0,Tricia Moore,5903 Gardendale,"Houston, TX 77092",7135533897,,2021-08-04 00:00:00,02210804
+826.0,Tammy Morris,1310 Hunters Meadow Lane,"Houston, TX 77055",2814333379,,2020-11-12 00:00:00,00201112
+381.0,Tammy Morris,1310 Hunters Meadow Lane,"Houston, TX 77055",2814333379,,2021-09-01 00:00:00,01210901
+537.0,Tammy Morris,1310 Hunters Meadow Ln,"Houston, TX , 77055",2814333379,mamamorris@comcast.net,2021-09-10 00:00:00,03210910
+624.0,Tammy Morris,1310 Hunters Meadow Lane,"Houston, TX 77055",2814333379,,2021-09-08 00:00:00,01210908
+147.0,Nicolas Tognini,943 Wax Myrtle Ln,"Houston, TX 77079",7132056923,,2021-04-28 00:00:00,02210428
+3275.0,Nicolas Tognini,943 Wax Myrtle Ln,"Houston, TX 77079",7132056923,,2021-05-03 00:00:00,00210503
+194.0,Nicolas Tognini,1327 Spillers Ln,"Houston, TX 77043",7132056923,,2021-05-24 00:00:00,
+197.5,Barbara Towne,1616 Fountainview Dr #205,"Houston, TX 77057",2816868178,,2021-06-10 00:00:00,01210610
+147.5,Barbara Towne,1616 Fountainview Dr #205,"Houston, TX 77057",2816868178,,2021-06-09 00:00:00,00210609
+994.0,Tracie Palmer,12407 Broken Bough Dr.,"Houston, TX 77024",8325636666,traciepalmer@mac.com,2021-11-30 00:00:00,01211130
+12769.0,Tracie Palmer,12407 Broken Bough Dr.,"Houston, TX 77024",8325636666,traciepalmer@mac.com,2021-11-11 00:00:00,00211111
+2675.0,Tim Parker,8206 Burkhart Dr,"Houston,  TX 77055",7138286930,tparker117@aol.com,2022-01-21 00:00:00,00220121
+254.0,Tim Parker,8206 Burkhart Dr,"Houston,  TX 77055",7138286930,tparker117@aol.com,2022-01-13 00:00:00,02220113
+2675.0,Tim Parker,8206 Burkhart Dr,"Houston,  TX 77055",7138286930,tparker117@aol.com,2022-01-21 00:00:00,00220121
+,Steve Troy,4630 Park Drive,"Houston, TX 77023",8326619678,,2020-10-05 00:00:00,00201005
+975.0,Tim Seipel,"6305 Pickens St, Unit A","Houston,  TX  77007",8325457092,tseipel@gmail.com,2021-12-21 00:00:00,02211221
+197.0,Tom Sparks,11522 Meadow Lake Drive,"Houston, TX 77077",7134105254,,2021-07-16 00:00:00,00210716
+747.0,Tim Seipel,"6305 Pickens St, Unit A","Houston, TX , 77007",8325457092,tseipel@gmail.com,2021-10-22 00:00:00,02211022
+297.0,Tom Sumrow,5841 Longmire Court,"Conroe, TX 77304",7138069874,,2021-07-20 00:00:00,02210720
+297.0,Terry Townend,,,,,2021-09-23 00:00:00,02210923
+0.0,William Smith,342 West 21st St,"Houston, TX , 77008",8327719354,wjsmith123@aol.com,2021-09-23 00:00:00,01210923
+697.0,Urania Garza,7915 Sands Point Dr ,"Houston, TX , 77036",(832) 214-7663,uraniagarza4@gmail.com,2021-09-23 00:00:00,01210923
+297.0,Urania Garza,7915 Sands Point Dr,"Hiuston, TX , 77036",8322147663,uraniagarza4@gmail.com,2021-09-16 00:00:00,01210916
+1875.0,Uvalde Ranch Apartments,5300 S Lake Houston Parkway,"Houston, TX 77049",,,2021-08-24 00:00:00,01210825
+818.5,Sandy Ustick,7723 Bykerwoods Dr,"Houston, TX 77055",7138260814,,2021-04-07 00:00:00,00210407
+497.0,Jones Raod Animal Clinic,9570 Jones Road,"Houston, TX 77065",,,2021-07-30 00:00:00,00210730
+,VCA Jones Road Animal Hospital,9570 Jones Rd,"Houston, TX 77065",2818909525,,2020-09-14 00:00:00,00200914
+,VCA Jones Road Animal Hospital,9570 Jones Rd,"Houston, TX 77065",2818909525,,2020-09-11 00:00:00,01200911
+10550.0,VCA Jones Rd Animal Hospital,9570 Jones Road,"Houston, TX , 77065",2818909525,tina.lalonde@vca.com,2021-09-28 00:00:00,03210928
+597.0,VCA Jones Rd Animal Hospital,9570 Jones Road,"Houston, TX , 77065",2818909525,tina.lalonde@vca.com,2021-09-23 00:00:00,00210923
+2875.0,Aimee Verheeck,318 Westminster Drive,"Houston, TX 77024",5049142426,,2021-03-31 00:00:00,00210331
+297.0,Aimee Verheeck,318 Westminster Drive,"Houston, TX 77024",5049142426,,2021-03-29 00:00:00,02210329
+297.0,Aimee Verheeck,318 Westminster Drive,"Houston, TX 77024",5049142426,,2021-03-29 00:00:00,02210329
+4275.0,Aimee Verheeck,318 Westminster Drive,"Houston, TX 77824",5049142426,,2021-06-16 00:00:00,02210616
+3000.0,Vann Hibberts,379 Connaught Way,"Houston, TX 77015",8328929255,,2021-08-23 00:00:00,00210823
+,Mindy Voyles,7833 Brykerwoods,"Houston, TX 77055",7137054881,,2021-05-05 00:00:00,01210505
+274.0,Ilana Walder-Biesanz,2615 Commonwealth St,"Houston, TX 77006",4085985522,,2021-04-23 00:00:00,00210423
+508.0,Gary Walker,10019 Briar Dr,"Houston, TX 77042",7139075191,,2020-11-03 00:00:00,00201103
+508.0,Gary Walker,1616 Fountainview,"Houston, TX 77057",7139075191,,2020-11-03 00:00:00,01201103
+197.0,Ronnie Wathough,12668 Briar Patch,"Houston, TX 77077",7139275803,,2020-09-02 00:00:00,04200902
+3875.0,Jon Welch,914 Honeysuckle Vine Dr,"Richmond, TX ",2817851581,,2021-06-09 00:00:00,01210609
+497.0,Jon Welch,914 Honeysuckle Vine Dr,"Richmond, TX 77469",2817851581,,2020-08-05 00:00:00,00200805
+2572.0,Jon Welch,914 Honeysuckle Vine Dr,"Richmond, TX 77469",2817851581,,2020-08-26 00:00:00,00200826
+1394.0,Hettig Management,5325 Katy Fwy #1 & #2,"Houston, TX 77007",,,2020-07-23 00:00:00,03200723
+747.0,Tom Wimberly,1244 Ripple Creek Drive,"Houston, TX 77057",2817481962,,2021-05-27 00:00:00,01210527
+1490.0,William Smith,342 West 21st St,"Houston, TX 77008",8327719354,,2021-08-26 00:00:00,00210826
+1250.0,William Smith,342 West 21st St,"Houston, TX , 77008",8327719354,wjsmith123@aol.com,2021-09-23 00:00:00,01210923
+687.0,Cindy Florio-Youschak,13823 Nueces Springs Ln,"Cypress, TX 77429",(713) 453-8328,,2020-07-07 00:00:00,03200707
