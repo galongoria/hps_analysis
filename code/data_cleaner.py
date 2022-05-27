@@ -1,9 +1,9 @@
 import os
 import pandas as pd
 
-IN_FILE_PATH = os.path.join("../data", "invoices_xl")
+IN_FILE_PATH = os.path.join("data", "invoices_xl")
 OUT_FILE = "clean_data.csv"
-OUT_DIR = os.path.join("../data")
+OUT_DIR = os.path.join("data")
 OUT_PATH = os.path.join(OUT_DIR, OUT_FILE)
 
 def invoice_to_df(directory):
